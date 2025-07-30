@@ -1,4 +1,4 @@
-# Exam Schedule Viewer
+# BRACU Exam Schedule
 
 An application to view and organize your exam schedule.
 
