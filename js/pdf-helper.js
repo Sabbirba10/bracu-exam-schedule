@@ -128,8 +128,7 @@ function enhancedCrossCheck(exams) {
   // Create a loading indicator
   const loadingElement = document.createElement("div");
   loadingElement.className = "text-white text-center py-4";
-  loadingElement.innerHTML =
-    '<i class="fas fa-spinner fa-spin mr-2"></i>Loading PDF...';
+  loadingElement.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>';
   pdfContainer.appendChild(loadingElement);
 
   // Try loading and rendering the PDF
