@@ -308,21 +308,26 @@
             autocomplete="on"
           />
           <button
-            class="add-course bg-yellow-300 text-gray-800 p-3 rounded mb-2 w-full flex items-center justify-center hover:bg-yellow-400 transition"
+            class="add-course text-white-600 font-bold p-3 rounded mb-2 w-full flex items-center justify-center hover:bg-green-600 transition"
             title="Add Course"
             type="button"
           >
-            <i class="fas fa-plus mr-2"></i>ADD
+            <i class="fas fa-plus mr-2"></i>Add Course
           </button>
         </div>
       </div>
-      <button
-        id="add-more-btn"
-        class="px-3 py-2 rounded mb-6 border border-gray-300 bg-white text-gray-800 hover:bg-gray-100 transition"
-        type="button"
-      >
-        <i class="fas fa-plus"></i>
-      </button>
+      <!-- Reset button -->
+      <div class="flex gap-2 mb-4">
+        <button id="add-more-btn"></button>
+        <button
+          id="reset-btn"
+          class="px-3 py-2 rounded border border-gray-300 bg-white text-gray-800 hover:bg-red-600 hover:text-white transition flex items-center justify-center"
+          type="button"
+          title="Reset routine"
+        >
+          <i class="fas fa-trash"></i>
+        </button>
+      </div>
 
       <div class="w-full overflow-x-auto table-container">
         <table
@@ -347,13 +352,13 @@
     <div class="flex flex-wrap gap-3 justify-center">
       <button
         id="screenshot-btn"
-        class="bg-blue-500 text-white font-bold p-3 rounded mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-blue-600 transition"
+        class="text-white font-bold p-3 rounded mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-blue-500 transition"
       >
         <i class="fas fa-camera mr-2"></i>Capture
       </button>
       <button
         id="cross-check-btn"
-        class="bg-blue-500 text-white font-bold p-3 rounded mt-2 sm:mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-blue-600 transition"
+        class="text-white font-bold p-3 rounded mt-2 sm:mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-blue-500 transition"
       >
         <i class="fas fa-file-pdf mr-2"></i>Check
       </button>
@@ -362,7 +367,7 @@
     <!-- Cross Check Modal -->
     <div
       id="cross-check-modal"
-      class="fixed inset-0 bg-black bg-opacity-80 z-50 hidden flex items-center justify-center"
+      class="fixed inset-0 bg-opacity-80 z-50 hidden flex items-center justify-center"
     >
       <div
         class="bg-transparent rounded-lg max-w-auto w-auto max-h-[90vh] overflow-y-auto overscroll-contain relative"
@@ -398,5 +403,12 @@
     <script src="js/pdf-helper.js"></script>
     <script src="js/pdf-viewer.js"></script>
     <script src="js/main.js"></script>
+    <script>
+      document
+        .getElementById("reset-btn")
+        .addEventListener("click", function () {
+          document.getElementById("schedule-body").innerHTML = "";
+        });
+    </script>
   </body>
 </html>
