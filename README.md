@@ -37,7 +37,7 @@ An interactive web application to view, organize, and cross-check your BRAC Univ
 - `index.html` – Main HTML file
 - `css/styles.css` – Custom styles
 - `js/` – JavaScript modules for UI, PDF handling, data, and utilities
-- `exam_data.json`, `midterm_schedule.json` – Exam data files
+- `exam_data.json`, `midterm.json` – Exam data files
 - `examData.pdf` – Official exam schedule PDF
 
 ## Dependencies
