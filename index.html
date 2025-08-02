@@ -452,5 +452,71 @@
       // Example usage: Clear inputs for the first row
       clearInputs(0);
     </script>
+    <script>
+      // Save the current routine table to localStorage
+      function saveRoutineToLocalStorage() {
+        const rows = [];
+        document.querySelectorAll("#schedule-body tr").forEach((tr) => {
+          const cells = tr.querySelectorAll("td");
+          if (cells.length) {
+            rows.push({
+              date: cells[0].textContent,
+              time: cells[1].textContent,
+              course: cells[2].textContent,
+              section: cells[3].textContent,
+              room: cells[4].textContent,
+            });
+          }
+        });
+        localStorage.setItem("routineTable", JSON.stringify(rows));
+      }
+
+      // Load the routine table from localStorage
+      function loadRoutineFromLocalStorage() {
+        const data = localStorage.getItem("routineTable");
+        if (data) {
+          const rows = JSON.parse(data);
+          const tbody = document.getElementById("schedule-body");
+          tbody.innerHTML = "";
+          rows.forEach((row) => {
+            const tr = document.createElement("tr");
+            tr.innerHTML = `
+          <td>${row.date}</td>
+          <td>${row.time}</td>
+          <td>${row.course}</td>
+          <td>${row.section}</td>
+          <td>${row.room}</td>
+        `;
+            tbody.appendChild(tr);
+          });
+        }
+      }
+
+      // Clear the routine table from localStorage
+      function clearRoutineFromLocalStorage() {
+        localStorage.removeItem("routineTable");
+      }
+
+      // Save routine after adding a course (hook into your add logic)
+      document.querySelectorAll(".add-course").forEach((btn, index) => {
+        btn.addEventListener("click", function () {
+          // Wait for the row to be added, then save
+          setTimeout(saveRoutineToLocalStorage, 100);
+        });
+      });
+
+      // Clear localStorage on reset
+      document
+        .getElementById("reset-btn")
+        .addEventListener("click", function () {
+          clearRoutineFromLocalStorage();
+        });
+
+      // Load routine on page load
+      document.addEventListener(
+        "DOMContentLoaded",
+        loadRoutineFromLocalStorage
+      );
+    </script>
   </body>
 </html>
