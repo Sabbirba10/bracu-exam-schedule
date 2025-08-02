@@ -120,7 +120,7 @@ function takeScreenshot(options = {}) {
     headerPaddingRight: "5px",
     headerPaddingBottom: "5px",
     headerPaddingLeft: "5px",
-    scale: 10, // Increased to 10x for higher quality
+    scale: 20, // Increased to 20x for higher quality
   };
 
   // Merge default options with provided options
@@ -160,14 +160,14 @@ function takeScreenshot(options = {}) {
   newTable.className = "min-w-full border text-center";
   newTable.style.borderCollapse = "collapse";
   newTable.style.width = "100%";
-  newTable.style.border = "1px solid #18181b"; // Tailwind gray-900
+  newTable.style.border = "1px solid #52525b"; // Tailwind gray-900
   newTable.style.fontSize = "16px";
   newTable.style.backgroundColor = "#18181b"; // Tailwind gray-900 for routine
 
   // Create table header
   const thead = document.createElement("thead");
   const headerRow = document.createElement("tr");
-  headerRow.style.borderBottom = "1px solid #18181b"; // Tailwind gray-900
+  headerRow.style.borderBottom = "1px solid #52525b"; // Tailwind gray-900
 
   const headers = ["Date", "Time", "Course", "Section", "Room"];
 
@@ -204,7 +204,7 @@ function takeScreenshot(options = {}) {
 
   originalRows.forEach((originalRow) => {
     const newRow = document.createElement("tr");
-    newRow.style.borderBottom = "1px solid #18181b"; // Tailwind gray-900
+    newRow.style.borderBottom = "1px solid #52525b"; // Tailwind gray-900
 
     Array.from(originalRow.cells).forEach((originalCell) => {
       const cell = document.createElement("td");
