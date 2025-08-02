@@ -131,9 +131,9 @@ function addMoreInputs() {
 
   // Create HTML for the new row with all elements
   newRow.innerHTML = `
-        <input type="text" placeholder="Course Code" class="course-code bg-white text-gray-800 p-3 rounded mb-2 w-full text-center" autocomplete="on">
-        <input type="text" placeholder="Sec" class="section bg-white text-gray-800 p-3 rounded mb-2 w-full text-center" autocomplete="on">
-        <button class="add-course bg-yellow-300 text-gray-800 p-3 rounded mb-2 w-full flex items-center justify-center transition">
+        <input type="text" placeholder="Course Code" class="course-code bg-white text-gray-800 p-3 rounded-lg mb-2 w-full text-center" autocomplete="on">
+        <input type="text" placeholder="Sec" class="section bg-white text-gray-800 p-3 rounded-lg mb-2 w-full text-center" autocomplete="on">
+        <button class="add-course bg-yellow-300 text-gray-800 p-3 rounded-lg mb-2 w-full flex items-center justify-center transition">
             <i class="fas fa-plus mr-2"></i>Add
         </button>
     `;

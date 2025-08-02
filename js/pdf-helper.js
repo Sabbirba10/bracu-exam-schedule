@@ -160,7 +160,7 @@ function enhancedCrossCheck(exams) {
                     <i class="fas fa-exclamation-circle mr-2"></i>
                     Could not load PDF file.<br>
                     <small class="block mt-2">Please check that the PDF file is accessible.</small>
-                    <button id="retry-pdf-btn" class="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">
+                    <button id="retry-pdf-btn" class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
                         Retry Loading PDF
                     </button>
                 </div>
@@ -241,7 +241,7 @@ function renderPdfWithExams(pdfDataUrl, exams, container, loadingElement) {
         pageHelp.className = "text-center text-sm text-blue-400 mt-2 mb-4";
         pageHelp.innerHTML = `
                     <p>Make sure your data includes page numbers.</p>
-                    <p class="mt-1">The format should be: <code class="bg-gray-700 px-1 py-0.5 rounded">"Page Number": 28</code></p>
+                    <p class="mt-1">The format should be: <code class="bg-gray-700 px-1 py-0.5 rounded-lg">"Page Number": 28</code></p>
                 `;
         container.appendChild(pageHelp);
 
@@ -360,7 +360,7 @@ function renderExamPage(pdfDocument, pageNum, exam, container) {
                 <div class="text-xs text-gray-400 mt-1">
                     PDF Page: ${pageNum} ${
       exam.pageNumber === pageNum
-        ? '<span class="bg-green-700 text-white px-1 py-0.5 ml-1 text-xs rounded">✓ Direct match</span>'
+        ? '<span class="bg-green-700 text-white px-1 py-0.5 ml-1 text-xs rounded-lg">✓ Direct match</span>'
         : ""
     }
                 </div>

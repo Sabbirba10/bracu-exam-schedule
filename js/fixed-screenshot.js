@@ -22,7 +22,7 @@ function takeScreenshot() {
   try {
     // Create a temporary container that includes only what we want in the screenshot
     const tempContainer = document.createElement("div");
-    tempContainer.className = "bg-gray-900 p-6 rounded w-full";
+    tempContainer.className = "bg-gray-900 p-6 rounded-lg w-full";
     tempContainer.style.color = "white";
     tempContainer.style.width = "100vw"; // Full viewport width
     tempContainer.style.maxWidth = "100vw";

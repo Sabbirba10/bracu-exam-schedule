@@ -137,7 +137,7 @@ function takeScreenshot(options = {}) {
 
   // Create a temporary container that includes only what we want in the screenshot
   const tempContainer = document.createElement("div");
-  tempContainer.className = "p-6 rounded";
+  tempContainer.className = "p-6 rounded-lg";
   // Set explicit width for full view screenshot
   const screenshotWidth = 1200; // or window.innerWidth for dynamic
   tempContainer.style.width = screenshotWidth + "px";

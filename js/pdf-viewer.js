@@ -218,7 +218,7 @@ function tryLoadingPdf(urls, index, exams, container, loadingElement) {
                     <div class="text-xs text-gray-400 mt-1">
                         PDF Page: ${pageNum} ${
             exam.pageNumber === pageNum
-              ? '<span class="bg-green-700 text-white px-1 py-0.5 ml-1 text-xs rounded">✓ Direct match</span>'
+              ? '<span class="bg-green-700 text-white px-1 py-0.5 ml-1 text-xs rounded-lg">✓ Direct match</span>'
               : ""
           }
                     </div>
