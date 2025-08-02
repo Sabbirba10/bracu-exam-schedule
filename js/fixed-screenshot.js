@@ -187,7 +187,7 @@ function takeScreenshot() {
 
         // Create download link
         const link = document.createElement("a");
-        link.download = "exam-schedule.png";
+        link.download = "bracuexam.png";
         link.href = window.highQualityScreenshot;
         document.body.appendChild(link);
 
