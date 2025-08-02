@@ -1,4 +1,4 @@
-# BRACU Exam Schedule
+# Exam Schedule for BRACU Students
 
 An interactive web application to view, organize, and cross-check your BRAC University exam schedule.
 
