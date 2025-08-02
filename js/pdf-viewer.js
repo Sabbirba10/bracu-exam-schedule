@@ -203,7 +203,7 @@ function tryLoadingPdf(urls, index, exams, container, loadingElement) {
 
           // Create a container for this exam's info and page
           const examContainer = document.createElement("div");
-          examContainer.className = "bg-gray-900 rounded-lg p-4 mb-4";
+          examContainer.className = "bg-trasnparent  rounded-lg p-4 mb-4";
 
           // Add exam info header
           const examInfo = document.createElement("div");
