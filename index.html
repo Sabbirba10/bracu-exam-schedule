@@ -306,9 +306,9 @@
     </style>
   </head>
   <body
-    class="bg-gray-800 text-white flex flex-col items-center justify-center min-h-screen p-4 sm:p-6"
+    class="bg-gray-900 text-white flex flex-col items-center justify-center min-h-screen p-4 sm:p-6"
     style="
-      background-color: #262626; /* Tailwind's gray-800 */
+      background-color: #1a202c; /* Tailwind's gray-900 */
       background-size: cover;
       background-attachment: fixed;
     "
@@ -357,17 +357,14 @@
       </div>
 
       <div class="w-full overflow-x-auto table-container">
-        <table
-          id="exam-schedule"
-          class="routine-table bg-gray-800 border border-gray-700"
-        >
+        <table id="exam-schedule" class="routine-table">
           <thead>
             <tr>
-              <th class="bg-gray-900">Date</th>
-              <th class="bg-gray-900">Time</th>
-              <th class="bg-gray-900">Course</th>
-              <th class="bg-gray-900">Section</th>
-              <th class="bg-gray-900">Room</th>
+              <th>Date</th>
+              <th>Time</th>
+              <th>Course</th>
+              <th>Section</th>
+              <th>Room</th>
             </tr>
           </thead>
           <tbody id="schedule-body">
@@ -454,72 +451,6 @@
 
       // Example usage: Clear inputs for the first row
       clearInputs(0);
-    </script>
-    <script>
-      // Save the current routine table to localStorage
-      function saveRoutineToLocalStorage() {
-        const rows = [];
-        document.querySelectorAll("#schedule-body tr").forEach((tr) => {
-          const cells = tr.querySelectorAll("td");
-          if (cells.length) {
-            rows.push({
-              date: cells[0].textContent,
-              time: cells[1].textContent,
-              course: cells[2].textContent,
-              section: cells[3].textContent,
-              room: cells[4].textContent,
-            });
-          }
-        });
-        localStorage.setItem("routineTable", JSON.stringify(rows));
-      }
-
-      // Load the routine table from localStorage
-      function loadRoutineFromLocalStorage() {
-        const data = localStorage.getItem("routineTable");
-        if (data) {
-          const rows = JSON.parse(data);
-          const tbody = document.getElementById("schedule-body");
-          tbody.innerHTML = "";
-          rows.forEach((row) => {
-            const tr = document.createElement("tr");
-            tr.innerHTML = `
-          <td>${row.date}</td>
-          <td>${row.time}</td>
-          <td>${row.course}</td>
-          <td>${row.section}</td>
-          <td>${row.room}</td>
-        `;
-            tbody.appendChild(tr);
-          });
-        }
-      }
-
-      // Clear the routine table from localStorage
-      function clearRoutineFromLocalStorage() {
-        localStorage.removeItem("routineTable");
-      }
-
-      // Save routine after adding a course (hook into your add logic)
-      document.querySelectorAll(".add-course").forEach((btn, index) => {
-        btn.addEventListener("click", function () {
-          // Wait for the row to be added, then save
-          setTimeout(saveRoutineToLocalStorage, 100);
-        });
-      });
-
-      // Clear localStorage on reset
-      document
-        .getElementById("reset-btn")
-        .addEventListener("click", function () {
-          clearRoutineFromLocalStorage();
-        });
-
-      // Load routine on page load
-      document.addEventListener(
-        "DOMContentLoaded",
-        loadRoutineFromLocalStorage
-      );
     </script>
   </body>
 </html>
