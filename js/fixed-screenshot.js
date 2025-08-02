@@ -48,14 +48,14 @@ function takeScreenshot() {
     newTable.style.border = "1px solid white";
     newTable.style.fontSize = "16px";
     newTable.style.color = "white";
-    newTable.style.backgroundColor = "#27272a"; // Tailwind gray-800 for routine
+    newTable.style.backgroundColor = "#1a202c"; // Tailwind gray-800 for routine
 
     // Create table header
     const thead = document.createElement("thead");
     const headerRow = document.createElement("tr");
     headerRow.style.borderBottom = "1px solid white";
 
-    const headers = ["Date", "Time", "Course", "Section", "Classroom"];
+    const headers = ["Date", "Time", "Course", "Section", "Room"];
 
     headers.forEach((text) => {
       const th = document.createElement("th");
