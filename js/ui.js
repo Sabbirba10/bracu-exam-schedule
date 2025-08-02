@@ -204,24 +204,26 @@ function takeScreenshot(options = {}) {
 
   originalRows.forEach((originalRow) => {
     const newRow = document.createElement("tr");
-    newRow.style.borderBottom = "1px solid #52525b"; // Tailwind gray-900
+    newRow.style.borderBottom = "1px solid #52525b";
+    newRow.style.backgroundColor = "transparent"; // Make row transparent
 
     Array.from(originalRow.cells).forEach((originalCell) => {
       const cell = document.createElement("td");
       cell.className = "px-3 py-3";
-      cell.style.color = "#e5e7eb"; // Tailwind gray-200
+      cell.style.color = "#e5e7eb";
+      cell.style.backgroundColor = "transparent"; // Make cell transparent
 
       // Create a div inside the cell for flexbox centering
       const contentDiv = document.createElement("div");
       contentDiv.style.display = "flex";
       contentDiv.style.justifyContent = "center";
       contentDiv.style.alignItems = "center";
-      contentDiv.style.minHeight = "30px"; // Ensure minimum height
+      contentDiv.style.minHeight = "30px";
       contentDiv.style.paddingTop = screenshotOptions.cellPaddingTop;
       contentDiv.style.paddingRight = screenshotOptions.cellPaddingRight;
       contentDiv.style.paddingBottom = screenshotOptions.cellPaddingBottom;
       contentDiv.style.paddingLeft = screenshotOptions.cellPaddingLeft;
-      contentDiv.style.color = "#e5e7eb"; // Tailwind gray-200
+      contentDiv.style.color = "#e5e7eb";
       contentDiv.textContent = originalCell.textContent;
 
       cell.appendChild(contentDiv);
