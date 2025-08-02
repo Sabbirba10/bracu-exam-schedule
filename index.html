@@ -438,31 +438,6 @@
     <script src="js/pdf-viewer.js"></script>
     <script src="js/main.js"></script>
     <script>
-      document
-        .getElementById("reset-btn")
-        .addEventListener("click", function () {
-          document.getElementById("schedule-body").innerHTML = "";
-        });
-    </script>
-    <script>
-      // Clear inputs function
-      function clearInputs(index) {
-        const courseCodeInput =
-          document.querySelectorAll(".course-code")[index];
-        const sectionInput = document.querySelectorAll(".section")[index];
-
-        if (courseCodeInput) {
-          courseCodeInput.value = "";
-        }
-        if (sectionInput) {
-          sectionInput.value = "";
-        }
-      }
-
-      // Example usage: Clear inputs for the first row
-      clearInputs(0);
-    </script>
-    <script>
       // Prevent arrow key input for all course-code and section fields
       function preventArrowKeys(e) {
         if (

@@ -16,7 +16,7 @@ function takeScreenshot(options = {}) {
     headerPaddingRight: "5px",
     headerPaddingBottom: "5px",
     headerPaddingLeft: "5px",
-    scale: 10, // Increased for much higher resolution
+    scale: 15, // Increased for much higher resolution
   };
 
   // Merge default options with provided options
