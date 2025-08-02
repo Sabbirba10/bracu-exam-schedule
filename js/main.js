@@ -181,6 +181,15 @@ function addMoreInputs() {
       newAddButton.focus();
     }
   });
+
+  // Prevent arrow key input for course and section fields
+  [newCourseInput, newSectionInput].forEach((input) => {
+    input.addEventListener("keydown", (e) => {
+      if (["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"].includes(e.key)) {
+        e.preventDefault();
+      }
+    });
+  });
 }
 
 /**
@@ -261,6 +270,15 @@ function setupEventListeners() {
         // fallback if dropdown.js not loaded
         courseInput.value = "";
         sectionInput.value = "";
+      }
+    });
+  });
+
+  // Prevent arrow key input for initial course and section fields
+  document.querySelectorAll(".course-code, .section").forEach((input) => {
+    input.addEventListener("keydown", (e) => {
+      if (["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"].includes(e.key)) {
+        e.preventDefault();
       }
     });
   });

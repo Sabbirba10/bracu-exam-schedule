@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Exam Schedule for BRACU</title>
+    <title>BRACU Exam</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link
       rel="stylesheet"
@@ -461,6 +461,36 @@
 
       // Example usage: Clear inputs for the first row
       clearInputs(0);
+    </script>
+    <script>
+      // Prevent arrow key input for all course-code and section fields
+      function preventArrowKeys(e) {
+        if (
+          ["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"].includes(e.key)
+        ) {
+          e.preventDefault();
+        }
+      }
+
+      function applyArrowKeyPrevention() {
+        document.querySelectorAll(".course-code, .section").forEach((input) => {
+          input.removeEventListener("keydown", preventArrowKeys); // avoid duplicates
+          input.addEventListener("keydown", preventArrowKeys);
+        });
+      }
+
+      // Initial application
+      document.addEventListener("DOMContentLoaded", applyArrowKeyPrevention);
+
+      // Re-apply after adding new input rows
+      document.addEventListener("click", function (e) {
+        if (
+          e.target.classList.contains("add-course") ||
+          e.target.id === "add-more-btn"
+        ) {
+          setTimeout(applyArrowKeyPrevention, 100); // Wait for DOM update
+        }
+      });
     </script>
   </body>
 </html>
