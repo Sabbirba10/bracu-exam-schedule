@@ -312,7 +312,7 @@ function renderPdfWithExams(pdfDataUrl, exams, container, loadingElement) {
         if (exams.length > pagesRendered) {
           const moreInfo = document.createElement("div");
           moreInfo.className = "text-center text-sm text-gray-400 mt-4";
-          moreInfo.textContent = `Only showing ${pagesRendered} of ${exams.length} exams. Please check more by adding fewer courses at a time.`;
+          moreInfo.textContent = `Showing ${pagesRendered} of ${exams.length} exams.`;
           container.appendChild(moreInfo);
         }
       });

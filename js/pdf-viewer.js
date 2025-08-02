@@ -283,7 +283,7 @@ function tryLoadingPdf(urls, index, exams, container, loadingElement) {
           if (exams.length > limitedExams.length) {
             const moreInfo = document.createElement("div");
             moreInfo.className = "text-center text-sm text-gray-400 mt-4";
-            moreInfo.textContent = `Only showing ${limitedExams.length} of ${exams.length} exams. Please check more by adding fewer courses at a time.`;
+            moreInfo.textContent = `Showing ${limitedExams.length} of ${exams.length} exams.`;
             container.appendChild(moreInfo);
           }
 
