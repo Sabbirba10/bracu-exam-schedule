@@ -120,7 +120,7 @@ function takeScreenshot(options = {}) {
     headerPaddingRight: "5px",
     headerPaddingBottom: "5px",
     headerPaddingLeft: "5px",
-    scale: 20, // Increased to 20x for higher quality
+    scale: 15, // Increased to 15x for higher quality
   };
 
   // Merge default options with provided options
@@ -523,6 +523,43 @@ document.addEventListener("click", function (e) {
 // Also call once on page load
 document.addEventListener("DOMContentLoaded", updateAddCourseButtons);
 
+/**
+ * Save the routine table to localStorage
+ */
+function saveRoutineToLocalStorage() {
+  const rows = Array.from(document.querySelectorAll("#schedule-body tr"));
+  const data = rows.map((row) =>
+    Array.from(row.children).map((cell) => cell.textContent)
+  );
+  localStorage.setItem("routineTable", JSON.stringify(data));
+}
+
+/**
+ * Load the routine table from localStorage
+ */
+function loadRoutineFromLocalStorage() {
+  const data = JSON.parse(localStorage.getItem("routineTable") || "[]");
+  const tbody = document.getElementById("schedule-body");
+  if (!tbody) return;
+  tbody.innerHTML = "";
+  data.forEach((cols) => {
+    const tr = document.createElement("tr");
+    cols.forEach((text) => {
+      const td = document.createElement("td");
+      td.textContent = text;
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+/**
+ * Clear the routine table from localStorage
+ */
+function clearRoutineLocalStorage() {
+  localStorage.removeItem("routineTable");
+}
+
 // Export UI functions
 window.ui = {
   showToast,
@@ -531,4 +568,7 @@ window.ui = {
   sortScheduleTable,
   takeScreenshot,
   openScreenshotModal,
+  saveRoutineToLocalStorage,
+  loadRoutineFromLocalStorage,
+  clearRoutineLocalStorage,
 };

@@ -378,6 +378,54 @@
           "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
         console.log("PDF.js initialized with worker");
       }
+
+      // --- Routine Table LocalStorage Logic ---
+
+      // Helper: Save routine table to localStorage
+      function saveRoutineToLocalStorage() {
+        const rows = Array.from(document.querySelectorAll("#schedule-body tr"));
+        const data = rows.map((row) =>
+          Array.from(row.children).map((cell) => cell.textContent)
+        );
+        localStorage.setItem("routineTable", JSON.stringify(data));
+      }
+
+      // Helper: Load routine table from localStorage
+      function loadRoutineFromLocalStorage() {
+        const data = JSON.parse(localStorage.getItem("routineTable") || "[]");
+        const tbody = document.getElementById("schedule-body");
+        tbody.innerHTML = "";
+        data.forEach((cols) => {
+          const tr = document.createElement("tr");
+          cols.forEach((text) => {
+            const td = document.createElement("td");
+            td.textContent = text;
+            tr.appendChild(td);
+          });
+          tbody.appendChild(tr);
+        });
+      }
+
+      // Helper: Clear routine table from localStorage
+      function clearRoutineLocalStorage() {
+        localStorage.removeItem("routineTable");
+      }
+
+      // Save routine whenever the table changes
+      const scheduleBody = document.getElementById("schedule-body");
+      const observer = new MutationObserver(saveRoutineToLocalStorage);
+      observer.observe(scheduleBody, { childList: true, subtree: false });
+
+      // Load routine on page load
+      window.addEventListener("DOMContentLoaded", loadRoutineFromLocalStorage);
+
+      // Reset button clears table and localStorage
+      document
+        .getElementById("reset-btn")
+        .addEventListener("click", function () {
+          document.getElementById("schedule-body").innerHTML = "";
+          clearRoutineLocalStorage();
+        });
     </script>
     <!-- JavaScript modules -->
     <script src="js/utils.js"></script>

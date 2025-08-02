@@ -383,17 +383,36 @@ function loadScheduleFromLocalStorage() {
   });
 }
 
-// Call this on page load
-document.addEventListener("DOMContentLoaded", loadScheduleFromLocalStorage);
-
-// Call saveScheduleToLocalStorage() whenever you add or remove a row
-// For example, after adding a course or resetting:
-document.getElementById("reset-btn").addEventListener("click", function () {
-  document.getElementById("schedule-body").innerHTML = "";
-  saveScheduleToLocalStorage();
+// Load routine from localStorage on page load
+document.addEventListener("DOMContentLoaded", function () {
+  if (
+    window.ui &&
+    typeof window.ui.loadRoutineFromLocalStorage === "function"
+  ) {
+    window.ui.loadRoutineFromLocalStorage();
+  }
 });
 
-// Example: After adding a course row, call saveScheduleToLocalStorage();
+// Save routine after adding/removing a row
+function onScheduleTableChanged() {
+  if (window.ui && typeof window.ui.saveRoutineToLocalStorage === "function") {
+    window.ui.saveRoutineToLocalStorage();
+  }
+}
+
+// Example: After adding a row
+// onScheduleTableChanged();
+
+// Example: After removing a row
+// onScheduleTableChanged();
+
+// When resetting the table
+document.getElementById("reset-btn").addEventListener("click", function () {
+  document.getElementById("schedule-body").innerHTML = "";
+  if (window.ui && typeof window.ui.clearRoutineLocalStorage === "function") {
+    window.ui.clearRoutineLocalStorage();
+  }
+});
 
 /**
  * Initialize the application
