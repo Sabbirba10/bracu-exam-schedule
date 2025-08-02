@@ -409,7 +409,7 @@
             .then((canvas) => {
               // Create download link
               const link = document.createElement("a");
-              link.download = "Test-Screenshot.png";
+              link.download = "test.png";
               link.href = canvas.toDataURL("image/png");
               document.body.appendChild(link);
               link.click();
