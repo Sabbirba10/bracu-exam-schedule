@@ -17,6 +17,9 @@ firebase-debug.*.log*
 # it commented so all members can deploy to the same project(s) in .firebaserc.
 # .firebaserc
 
+# python scripts
+script/
+
 # Runtime data
 pids
 *.pid
@@ -67,8 +70,3 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
-
-# python scripts
-script/bil.py
-script/general.py
-script/
