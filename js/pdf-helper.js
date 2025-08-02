@@ -347,7 +347,7 @@ function renderExamPage(pdfDocument, pageNum, exam, container) {
 
     // Create exam container
     const examContainer = document.createElement("div");
-    examContainer.className = "bg-trasnparent rounded-lg p-4 mb-4";
+    examContainer.className = "bg-(rgb(24, 24, 27)) rounded-lg p-4 mb-4";
 
     // Add exam info header
     examContainer.innerHTML = `

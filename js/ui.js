@@ -51,7 +51,7 @@ function addExamsToSchedule(exams) {
 
     if (existingRows.length === 0) {
       const row = document.createElement("tr");
-      row.className = "border-b border-white transition"; // Removed hover:bg-blue-800
+      row.className = "border-b border-white transition";
 
       // Create row cells
       row.innerHTML = `
@@ -205,13 +205,13 @@ function takeScreenshot(options = {}) {
   originalRows.forEach((originalRow) => {
     const newRow = document.createElement("tr");
     newRow.style.borderBottom = "1px solid #52525b";
-    newRow.style.backgroundColor = "transparent"; // Make row transparent
+    newRow.style.backgroundColor = "transparent";
 
     Array.from(originalRow.cells).forEach((originalCell) => {
       const cell = document.createElement("td");
       cell.className = "px-3 py-3";
       cell.style.color = "#e5e7eb";
-      cell.style.backgroundColor = "transparent"; // Make cell transparent
+      cell.style.backgroundColor = "transparent";
 
       // Create a div inside the cell for flexbox centering
       const contentDiv = document.createElement("div");

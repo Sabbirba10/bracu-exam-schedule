@@ -297,7 +297,7 @@
             autocomplete="on"
           />
           <button
-            class="add-course text-whitesmoke-600 font-bold p-3 rounded mb-2 w-full flex items-center justify-center hover:bg-green-600 transition"
+            class="add-course text-whitesmoke-600 font-bold p-3 rounded mb-2 w-full flex items-center justify-center hover:bg-gray-900 transition"
             title="Add Course"
             type="button"
           >
@@ -338,13 +338,13 @@
     <div class="flex flex-wrap gap-3 justify-center">
       <button
         id="screenshot-btn"
-        class="text-whitesmoke font-bold py-3 px-6 hover:rounded mt-4 flex items-center justify-center hover:bg-gray-600 transition"
+        class="text-whitesmoke font-bold py-3 px-6 hover:rounded-lg mt-4 flex items-center justify-center hover:bg-gray-900 transition"
       >
         <i class="fas fa-save mr-2"></i>Save
       </button>
       <button
         id="cross-check-btn"
-        class="text-whitesmoke font-bold py-3 px-6 hover:rounded mt-2 sm:mt-4 flex items-center justify-center hover:bg-gray-600 transition"
+        class="text-whitesmoke font-bold py-3 px-6 hover:rounded-lg mt-2 sm:mt-4 flex items-center justify-center hover:bg-gray-900 transition"
       >
         <i class="fas fa-file-pdf mr-2"></i>Check
       </button>
@@ -356,18 +356,19 @@
       class="fixed inset-0 bg-opacity-80 z-50 hidden flex items-center justify-center"
     >
       <div
-        class="bg-transparent rounded-lg max-w-auto w-auto max-h-[90vh] overflow-y-auto overscroll-contain relative"
+        class="bg-gray-900 rounded max-w-auto max-w-auto max-h-[85vh] overflow-y-auto overscroll-contain relative"
       >
-        <button
-          id="close-modal-btn"
-          class="absolute left-1/2 -translate-x-1/2 top-2 bg-transparent hover:bg-red-600 hover:rounded p-2 transition"
-          aria-label="Close"
-          type="button"
-        >
-          <i class="fa fa-times-circle"></i>
-        </button>
         <div id="pdf-container" class="p-3 sm:p-4"></div>
       </div>
+      <button
+        id="close-modal-btn"
+        class="absolute left-1/2 -translate-x-1/2 top-2 bg-transparent hover:bg-gray-900 hover:rounded p-2 transition"
+        aria-label="Close"
+        type="button"
+      >
+        Close
+        <i class="fa fa-times-circle"></i>
+      </button>
     </div>
     <!-- PDF.js library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
