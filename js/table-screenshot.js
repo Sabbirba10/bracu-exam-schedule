@@ -105,7 +105,7 @@ function takeScreenshot(options = {}) {
   originalRows.forEach((originalRow) => {
     const newRow = document.createElement("tr");
     newRow.style.borderBottom = "1px solid white";
-    newRow.style.backgroundColor = "#27272a";
+    newRow.style.backgroundColor = "#52525b";
 
     Array.from(originalRow.cells).forEach((originalCell) => {
       const cell = document.createElement("td");
@@ -201,7 +201,7 @@ function takeScreenshot(options = {}) {
 
         // Create download link
         const link = document.createElement("a");
-        link.download = "exam-schedule.png";
+        link.download = "bracuexam.png";
         link.href = window.highQualityScreenshot;
         link.click();
 

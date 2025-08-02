@@ -120,7 +120,7 @@ function takeScreenshot(options = {}) {
     headerPaddingRight: "5px",
     headerPaddingBottom: "5px",
     headerPaddingLeft: "5px",
-    scale: 3, // Increased to 3x for higher quality
+    scale: 10, // Increased to 10x for higher quality
   };
 
   // Merge default options with provided options
@@ -160,16 +160,16 @@ function takeScreenshot(options = {}) {
   newTable.className = "min-w-full border text-center";
   newTable.style.borderCollapse = "collapse";
   newTable.style.width = "100%";
-  newTable.style.border = "1px solid #52525b"; // Tailwind gray-600
+  newTable.style.border = "1px solid #18181b"; // Tailwind gray-900
   newTable.style.fontSize = "16px";
-  newTable.style.backgroundColor = "#27272a"; // Tailwind gray-800 for routine
+  newTable.style.backgroundColor = "#18181b"; // Tailwind gray-900 for routine
 
   // Create table header
   const thead = document.createElement("thead");
   const headerRow = document.createElement("tr");
-  headerRow.style.borderBottom = "1px solid #52525b"; // Tailwind gray-600
+  headerRow.style.borderBottom = "1px solid #18181b"; // Tailwind gray-900
 
-  const headers = ["Date", "Time", "Course", "Section", "Classroom"];
+  const headers = ["Date", "Time", "Course", "Section", "Room"];
 
   headers.forEach((text) => {
     const th = document.createElement("th");
@@ -204,7 +204,7 @@ function takeScreenshot(options = {}) {
 
   originalRows.forEach((originalRow) => {
     const newRow = document.createElement("tr");
-    newRow.style.borderBottom = "1px solid #52525b"; // Tailwind gray-600
+    newRow.style.borderBottom = "1px solid #18181b"; // Tailwind gray-900
 
     Array.from(originalRow.cells).forEach((originalCell) => {
       const cell = document.createElement("td");
@@ -262,7 +262,7 @@ function takeScreenshot(options = {}) {
 
     // Take the screenshot
     html2canvas(tempContainer, {
-      backgroundColor: "rgba(0, 0, 0, 0.9)",
+      backgroundColor: "#18181b",
       logging: true,
       scale: screenshotOptions.scale,
       useCORS: true,
@@ -288,7 +288,7 @@ function takeScreenshot(options = {}) {
 
         // Create download link
         const link = document.createElement("a");
-        link.download = "exam-schedule.png";
+        link.download = "bracuexam.png";
         link.href = window.highQualityScreenshot;
         document.body.appendChild(link);
 
