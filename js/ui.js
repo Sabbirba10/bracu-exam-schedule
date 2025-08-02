@@ -120,7 +120,7 @@ function takeScreenshot(options = {}) {
     headerPaddingRight: "5px",
     headerPaddingBottom: "5px",
     headerPaddingLeft: "5px",
-    scale: 20, // Increased to 20x for higher quality
+    scale: 10, // Increased to 10x for higher quality
   };
 
   // Merge default options with provided options
