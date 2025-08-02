@@ -306,9 +306,9 @@
     </style>
   </head>
   <body
-    class="bg-gray-900 text-white flex flex-col items-center justify-center min-h-screen p-4 sm:p-6"
+    class="bg-gray-800 text-white flex flex-col items-center justify-center min-h-screen p-4 sm:p-6"
     style="
-      background-color: #1a202c; /* Tailwind's gray-900 */
+      background-color: #262626; /* Tailwind's gray-800 */
       background-size: cover;
       background-attachment: fixed;
     "
@@ -357,14 +357,17 @@
       </div>
 
       <div class="w-full overflow-x-auto table-container">
-        <table id="exam-schedule" class="routine-table">
+        <table
+          id="exam-schedule"
+          class="routine-table bg-gray-800 border border-gray-700"
+        >
           <thead>
             <tr>
-              <th>Date</th>
-              <th>Time</th>
-              <th>Course</th>
-              <th>Section</th>
-              <th>Room</th>
+              <th class="bg-gray-900">Date</th>
+              <th class="bg-gray-900">Time</th>
+              <th class="bg-gray-900">Course</th>
+              <th class="bg-gray-900">Section</th>
+              <th class="bg-gray-900">Room</th>
             </tr>
           </thead>
           <tbody id="schedule-body">
