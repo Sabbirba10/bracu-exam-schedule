@@ -271,16 +271,18 @@
     </style>
   </head>
   <body
-    class="bg-gray-900 text-whitesmoke flex flex-col items-center justify-center min-h-screen p-4 sm:p-6"
+    class="bg-gray-600 text-whitesmoke flex flex-col items-center justify-center min-h-screen p-4 sm:p-6"
     style="
-      background-color: #1a202c; /* Tailwind's gray-900 */
+      background-color: transparent; /* Tailwind's gray-600 */
       background-size: cover;
       background-attachment: fixed;
     "
   >
     <div id="toast-container" class="toast-container"></div>
     <div id="capture-area" class="flex flex-col items-center w-full max-w-auto">
-      <h1 class="text-2xl font-bold text-center">MidTerm Summer 25</h1>
+      <h1 class="text-xl font-bold text-whitesmoke-600 text-center">
+        Mid-Term Exam Schedule
+      </h1>
       <br />
 
       <!-- Modified structure for mobile layout -->
@@ -341,13 +343,13 @@
     <div class="flex flex-wrap gap-3 justify-center">
       <button
         id="screenshot-btn"
-        class="text-whitesmoke font-bold p-3 hover:rounded mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-blue-500 transition"
+        class="text-whitesmoke font-bold p-3 hover:rounded mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-gray-600 transition"
       >
         <i class="fas fa-save mr-2"></i>Save
       </button>
       <button
         id="cross-check-btn"
-        class="text-whitesmoke font-bold p-3 hover:rounded mt-2 sm:mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-blue-500 transition"
+        class="text-whitesmoke font-bold p-3 hover:rounded mt-2 sm:mt-4 w-full max-w-xs sm:w-auto sm:px-6 flex items-center justify-center hover:bg-gray-600 transition"
       >
         <i class="fas fa-file-pdf mr-2"></i>Check
       </button>
@@ -363,7 +365,7 @@
       >
         <button
           id="close-modal-btn"
-          class="absolute left-1/2 -translate-x-1/2 top-2 text-whitesmoke bg-transparent hover:bg-blue-900 hover:rounded p-2 transition"
+          class="absolute left-1/2 -translate-x-1/2 top-2 text-whitesmoke bg-transparent hover:bg-gray-600 hover:rounded p-2 transition"
           aria-label="Close"
           type="button"
         >
