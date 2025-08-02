@@ -22,8 +22,16 @@ function takeScreenshot() {
   try {
     // Create a temporary container that includes only what we want in the screenshot
     const tempContainer = document.createElement("div");
-    tempContainer.className = "bg-black p-6 rounded";
-    tempContainer.style.color = "white"; // Ensure text is white
+    tempContainer.className = "bg-gray-900 p-6 rounded w-full";
+    tempContainer.style.color = "white";
+    tempContainer.style.width = "100vw"; // Full viewport width
+    tempContainer.style.maxWidth = "100vw";
+    tempContainer.style.margin = "0";
+    tempContainer.style.boxSizing = "border-box";
+    tempContainer.style.backgroundColor = "#1a202c";
+    tempContainer.style.visibility = "hidden";
+    tempContainer.style.pointerEvents = "none";
+    tempContainer.style.position = "static"; // Not absolute/off-screen
 
     // Add the title
     const title = document.createElement("h1");
@@ -40,7 +48,7 @@ function takeScreenshot() {
     newTable.style.border = "1px solid white";
     newTable.style.fontSize = "16px";
     newTable.style.color = "white";
-    newTable.style.backgroundColor = "rgba(0, 0, 0, 0.9)";
+    newTable.style.backgroundColor = "#27272a"; // Tailwind gray-800 for routine
 
     // Create table header
     const thead = document.createElement("thead");
@@ -153,12 +161,14 @@ function takeScreenshot() {
 
     // Take screenshot with html2canvas
     html2canvas(tempContainer, {
-      backgroundColor: "rgba(0, 0, 0, 0.9)",
+      backgroundColor: "#1a202c",
       logging: false,
-      scale: 4,
+      scale: 2,
       useCORS: true,
       allowTaint: true,
-      removeContainer: false, // Don't let html2canvas remove our container
+      width: window.innerWidth, // Full viewport width
+      windowWidth: window.innerWidth, // Ensure rendering at this width
+      removeContainer: false,
     })
       .then(function (canvas) {
         console.log("Screenshot captured successfully");

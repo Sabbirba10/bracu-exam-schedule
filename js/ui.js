@@ -51,7 +51,7 @@ function addExamsToSchedule(exams) {
 
     if (existingRows.length === 0) {
       const row = document.createElement("tr");
-      row.className = "border-b border-white hover:bg-blue-800 transition";
+      row.className = "border-b border-white transition"; // Removed hover:bg-blue-800
 
       // Create row cells
       row.innerHTML = `
@@ -137,55 +137,53 @@ function takeScreenshot(options = {}) {
 
   // Create a temporary container that includes only what we want in the screenshot
   const tempContainer = document.createElement("div");
-  tempContainer.className = "bg-black p-6 rounded";
-  // Set explicit width to match the original table's width
-  const originalTable = document.querySelector("table");
-  if (originalTable) {
-    const originalWidth = originalTable.offsetWidth;
-    tempContainer.style.width = originalWidth + "px";
-  }
-  // Set overflow to visible to prevent cutting off content
+  tempContainer.className = "p-6 rounded";
+  // Set explicit width for full view screenshot
+  const screenshotWidth = 1200; // or window.innerWidth for dynamic
+  tempContainer.style.width = screenshotWidth + "px";
+  tempContainer.style.maxWidth = screenshotWidth + "px";
+  tempContainer.style.minWidth = screenshotWidth + "px";
   tempContainer.style.overflow = "visible";
-  tempContainer.style.marginBottom = "20px"; // Add extra margin at bottom
+  tempContainer.style.marginBottom = "20px";
+  tempContainer.style.backgroundColor = "#18181b"; // Tailwind gray-900 (even darker)
+  tempContainer.style.color = "#e5e7eb"; // Tailwind gray-200 for text
 
   // Add the title
   const title = document.createElement("h1");
-  title.className = "text-2xl font-bold mb-6 text-white text-center";
+  title.className = "text-2xl font-bold mb-6 text-center";
+  title.style.color = "#e5e7eb"; // Tailwind gray-200
   title.textContent = document.querySelector("h1").textContent;
   tempContainer.appendChild(title);
 
   // Create a new table from scratch
   const newTable = document.createElement("table");
-  newTable.className = "min-w-full bg-black border border-white text-center";
+  newTable.className = "min-w-full border text-center";
   newTable.style.borderCollapse = "collapse";
   newTable.style.width = "100%";
-  newTable.style.border = "1px solid white";
-  newTable.style.fontSize = "16px"; // Ensure consistent font size
+  newTable.style.border = "1px solid #52525b"; // Tailwind gray-600
+  newTable.style.fontSize = "16px";
+  newTable.style.backgroundColor = "#27272a"; // Tailwind gray-800 for routine
 
   // Create table header
   const thead = document.createElement("thead");
   const headerRow = document.createElement("tr");
-  headerRow.style.borderBottom = "1px solid white";
+  headerRow.style.borderBottom = "1px solid #52525b"; // Tailwind gray-600
 
   const headers = ["Date", "Time", "Course", "Section", "Classroom"];
 
   headers.forEach((text) => {
     const th = document.createElement("th");
     th.className = "px-3 py-3 text-center";
-    th.style.color = "white";
+    th.style.color = "#e5e7eb"; // Tailwind gray-200
 
     // Create a div inside the header cell for flexbox centering
     const contentDiv = document.createElement("div");
     contentDiv.style.display = "flex";
     contentDiv.style.justifyContent = "center";
     contentDiv.style.alignItems = "center";
-    contentDiv.style.minHeight = "30px"; // Ensure minimum height
-    contentDiv.style.paddingTop = screenshotOptions.headerPaddingTop;
-    contentDiv.style.paddingRight = screenshotOptions.headerPaddingRight;
-    contentDiv.style.paddingBottom = screenshotOptions.headerPaddingBottom;
-    contentDiv.style.paddingLeft = screenshotOptions.headerPaddingLeft;
+    contentDiv.style.minHeight = "30px";
     contentDiv.style.fontWeight = "bold";
-    contentDiv.style.color = "white";
+    contentDiv.style.color = "#e5e7eb"; // Tailwind gray-200
     contentDiv.textContent = text;
 
     th.appendChild(contentDiv);
@@ -206,12 +204,12 @@ function takeScreenshot(options = {}) {
 
   originalRows.forEach((originalRow) => {
     const newRow = document.createElement("tr");
-    newRow.style.borderBottom = "1px solid white";
+    newRow.style.borderBottom = "1px solid #52525b"; // Tailwind gray-600
 
     Array.from(originalRow.cells).forEach((originalCell) => {
       const cell = document.createElement("td");
       cell.className = "px-3 py-3";
-      cell.style.color = "white";
+      cell.style.color = "#e5e7eb"; // Tailwind gray-200
 
       // Create a div inside the cell for flexbox centering
       const contentDiv = document.createElement("div");
@@ -223,7 +221,7 @@ function takeScreenshot(options = {}) {
       contentDiv.style.paddingRight = screenshotOptions.cellPaddingRight;
       contentDiv.style.paddingBottom = screenshotOptions.cellPaddingBottom;
       contentDiv.style.paddingLeft = screenshotOptions.cellPaddingLeft;
-      contentDiv.style.color = "white";
+      contentDiv.style.color = "#e5e7eb"; // Tailwind gray-200
       contentDiv.textContent = originalCell.textContent;
 
       cell.appendChild(contentDiv);
@@ -266,12 +264,12 @@ function takeScreenshot(options = {}) {
     html2canvas(tempContainer, {
       backgroundColor: "rgba(0, 0, 0, 0.9)",
       logging: true,
-      scale: screenshotOptions.scale, // Use configurable scale option for quality
+      scale: screenshotOptions.scale,
       useCORS: true,
       allowTaint: true,
-      width: tempContainer.offsetWidth,
-      height: computedHeight, // Use computed height with extra padding
-      windowHeight: computedHeight + 50, // Ensure window height is sufficient
+      width: screenshotWidth,
+      height: computedHeight,
+      windowHeight: computedHeight + 50,
       onclone: function (clonedDoc) {
         // Make sure the clone has visible overflow
         const clonedContainer = clonedDoc.body.querySelector("div");

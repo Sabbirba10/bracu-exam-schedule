@@ -16,7 +16,7 @@ function takeScreenshot(options = {}) {
     headerPaddingRight: "5px",
     headerPaddingBottom: "5px",
     headerPaddingLeft: "5px",
-    scale: 3,
+    scale: 10, // Increased for much higher resolution
   };
 
   // Merge default options with provided options
@@ -31,16 +31,18 @@ function takeScreenshot(options = {}) {
   // Show a notification that screenshot is being generated
   showToast("Creating screenshot...", "info"); // Create a temporary container that includes only what we want in the screenshot
   const tempContainer = document.createElement("div");
-  tempContainer.className = "bg-black p-6 rounded";
-  // Set explicit width to match the original table's width
-  const originalTable = document.querySelector("table");
-  if (originalTable) {
-    const originalWidth = originalTable.offsetWidth;
-    tempContainer.style.width = originalWidth + "px";
-  }
+  tempContainer.className = "p-6";
+  tempContainer.style.backgroundColor = "#18181b"; // Tailwind gray-900
+  // Set explicit width for full view screenshot
+  const screenshotWidth = 2400; // Increased width for larger image
+  tempContainer.style.width = screenshotWidth + "px";
+  tempContainer.style.maxWidth = screenshotWidth + "px";
+  tempContainer.style.minWidth = screenshotWidth + "px";
   // Set overflow to visible to prevent cutting off content
   tempContainer.style.overflow = "visible";
-  tempContainer.style.marginBottom = "20px"; // Add extra margin at bottom
+  // Remove extra margin at bottom if not needed
+  // tempContainer.style.marginBottom = "20px";
+  tempContainer.style.borderRadius = "0";
 
   // Add the title
   const title = document.createElement("h1");
@@ -50,10 +52,11 @@ function takeScreenshot(options = {}) {
 
   // Create a new table from scratch
   const newTable = document.createElement("table");
-  newTable.className = "min-w-full bg-black border border-white text-center";
+  newTable.className = "min-w-full border border-white text-center";
+  newTable.style.backgroundColor = "#27272a"; // Tailwind gray-800
   newTable.style.borderCollapse = "collapse";
   newTable.style.width = "100%";
-  newTable.style.border = "1px solid white";
+  newTable.style.border = "1px solid #52525b";
   newTable.style.fontSize = "16px"; // Ensure consistent font size
 
   // Create table header
@@ -61,12 +64,13 @@ function takeScreenshot(options = {}) {
   const headerRow = document.createElement("tr");
   headerRow.style.borderBottom = "1px solid white";
 
-  const headers = ["Date", "Time", "Course", "Section", "Classroom"];
+  const headers = ["Date", "Time", "Course", "Section", "Room"];
 
   headers.forEach((text) => {
     const th = document.createElement("th");
     th.className = "px-3 py-3 text-center";
     th.style.color = "white";
+    th.style.backgroundColor = "#27272a";
 
     // Create a div inside the header cell for flexbox centering
     const contentDiv = document.createElement("div");
@@ -101,11 +105,13 @@ function takeScreenshot(options = {}) {
   originalRows.forEach((originalRow) => {
     const newRow = document.createElement("tr");
     newRow.style.borderBottom = "1px solid white";
+    newRow.style.backgroundColor = "#27272a";
 
     Array.from(originalRow.cells).forEach((originalCell) => {
       const cell = document.createElement("td");
       cell.className = "px-3 py-3";
       cell.style.color = "white";
+      cell.style.backgroundColor = "#27272a";
 
       // Create a div inside the cell for flexbox centering
       const contentDiv = document.createElement("div");
@@ -151,51 +157,64 @@ function takeScreenshot(options = {}) {
     return;
   } // Take the screenshot    // Add a small delay before capturing to ensure everything has rendered properly
   setTimeout(() => {
-    // Explicitly set the height to include a bit of extra space
-    const computedHeight = tempContainer.scrollHeight + 20; // Add extra pixels at bottom
+    // Get the exact rendered size of the container
+    const rect = tempContainer.getBoundingClientRect();
+    const computedWidth = Math.ceil(rect.width);
+    const computedHeight = Math.ceil(rect.height);
+
+    // Force the container to have exactly this size
+    tempContainer.style.width = computedWidth + "px";
+    tempContainer.style.minWidth = computedWidth + "px";
+    tempContainer.style.maxWidth = computedWidth + "px";
+    tempContainer.style.height = computedHeight + "px";
+    tempContainer.style.minHeight = computedHeight + "px";
+    tempContainer.style.maxHeight = computedHeight + "px";
+    tempContainer.style.paddingBottom = "0";
+    tempContainer.style.marginBottom = "0";
 
     html2canvas(tempContainer, {
-      backgroundColor: "rgba(0, 0, 0, 0.9)",
+      backgroundColor: "#27272a",
       logging: true,
-      scale: screenshotOptions.scale, // Use configurable scale for quality control
+      scale: screenshotOptions.scale, // Now uses the higher scale
       useCORS: true,
       allowTaint: true,
-      width: tempContainer.offsetWidth,
-      height: computedHeight, // Use computed height with extra padding
-      windowHeight: computedHeight + 50, // Ensure window height is sufficient
+      width: computedWidth,
+      height: computedHeight,
+      windowWidth: computedWidth,
+      windowHeight: computedHeight,
       onclone: function (clonedDoc) {
-        // Make sure the clone has visible overflow
         const clonedContainer = clonedDoc.body.querySelector("div");
         if (clonedContainer) {
           clonedContainer.style.overflow = "visible";
-          clonedContainer.style.paddingBottom = "20px";
+          clonedContainer.style.paddingBottom = "0";
+          clonedContainer.style.marginBottom = "0";
+          clonedContainer.style.height = computedHeight + "px";
+          clonedContainer.style.minHeight = computedHeight + "px";
+          clonedContainer.style.maxHeight = computedHeight + "px";
         }
       },
-    });
-  }, 100)
-    .then((canvas) => {
-      console.log("Screenshot captured successfully");
-
-      // No cropping is applied here - the table screenshot should not be cropped
-
-      // Store the high-quality screenshot in a global variable for later use
-      window.highQualityScreenshot = canvas.toDataURL("image/png");
-
-      // Create download link
-      const link = document.createElement("a");
-      link.download = "exam-schedule.png";
-      link.href = window.highQualityScreenshot;
-      link.click();
-
-      // Clean up
-      document.body.removeChild(tempContainer);
-
-      // Show success message
-      showToast("Schedule screenshot saved!", "success");
     })
-    .catch((error) => {
-      console.error("Screenshot error:", error);
-      showToast("Error taking screenshot. Please try again.", "error");
-      document.body.removeChild(tempContainer);
-    });
+      .then((canvas) => {
+        console.log("Screenshot captured successfully");
+
+        window.highQualityScreenshot = canvas.toDataURL("image/png");
+
+        // Create download link
+        const link = document.createElement("a");
+        link.download = "exam-schedule.png";
+        link.href = window.highQualityScreenshot;
+        link.click();
+
+        // Clean up
+        document.body.removeChild(tempContainer);
+
+        // Show success message
+        showToast("Schedule screenshot saved!", "success");
+      })
+      .catch((error) => {
+        console.error("Screenshot error:", error);
+        showToast("Error taking screenshot. Please try again.", "error");
+        document.body.removeChild(tempContainer);
+      });
+  }, 100);
 }
