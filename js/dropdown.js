@@ -6,50 +6,52 @@
  * @param {number} index - The index of the input row
  */
 function showCourseDropdown(input, index) {
-    hideAllDropdowns();
+  hideAllDropdowns();
 
-    const dropdown = document.createElement('div');
-    dropdown.className = 'dropdown';
-    dropdown.id = `course-dropdown-${index}`;
-    dropdown.setAttribute('role', 'listbox');
-    dropdown.style.minWidth = '200px';
+  const dropdown = document.createElement("div");
+  dropdown.className = "dropdown";
+  dropdown.id = `course-dropdown-${index}`;
+  dropdown.setAttribute("role", "listbox");
+  dropdown.style.minWidth = "200px";
 
-    const filter = input.value.trim().toLowerCase();
-    let filtered = data.getAvailableCourses()
-        .filter(course => course.toLowerCase().includes(filter));
+  const filter = input.value.trim().toLowerCase();
+  let filtered = data
+    .getAvailableCourses()
+    .filter((course) => course.toLowerCase().includes(filter));
 
-    if (filtered.length === 0) {
-        const noOpt = document.createElement('div');
-        noOpt.className = 'dropdown-option disabled';
-        noOpt.textContent = 'No match';
-        dropdown.appendChild(noOpt);
-    } else {
-        filtered.sort().forEach((course, optionIndex) => {
-            const option = document.createElement('div');
-            option.className = 'dropdown-option';
-            option.setAttribute('role', 'option');
-            option.setAttribute('tabindex', '-1');
-            option.setAttribute('data-index', optionIndex.toString());
-            option.textContent = course;
+  if (filtered.length === 0) {
+    const noOpt = document.createElement("div");
+    noOpt.className = "dropdown-option disabled";
+    noOpt.textContent = "No match";
+    dropdown.appendChild(noOpt);
+  } else {
+    filtered.sort().forEach((course, optionIndex) => {
+      const option = document.createElement("div");
+      option.className = "dropdown-option";
+      option.setAttribute("role", "option");
+      option.setAttribute("tabindex", "-1");
+      option.setAttribute("data-index", optionIndex.toString());
+      option.textContent = course;
 
-            option.addEventListener('mouseenter', () => {
-                dropdown.querySelectorAll('.dropdown-option').forEach(opt =>
-                    opt.classList.remove('active'));
-                option.classList.add('active');
-            });
+      option.addEventListener("mouseenter", () => {
+        dropdown
+          .querySelectorAll(".dropdown-option")
+          .forEach((opt) => opt.classList.remove("active"));
+        option.classList.add("active");
+      });
 
-            option.addEventListener('mousedown', (e) => {
-                e.preventDefault();
-                selectCourse(input, course, index);
-            });
+      option.addEventListener("mousedown", (e) => {
+        e.preventDefault();
+        selectCourse(input, course, index);
+      });
 
-            dropdown.appendChild(option);
-        });
-    }
+      dropdown.appendChild(option);
+    });
+  }
 
-    document.body.appendChild(dropdown);
-    positionDropdown(dropdown, input);
-    setupKeyboardNav(dropdown, input, index, 'course');
+  document.body.appendChild(dropdown);
+  positionDropdown(dropdown, input);
+  setupKeyboardNav(dropdown, input, index, "course");
 }
 
 /**
@@ -58,59 +60,63 @@ function showCourseDropdown(input, index) {
  * @param {number} index - The index of the input row
  */
 function showSectionDropdown(input, index) {
-    hideAllDropdowns();
+  hideAllDropdowns();
 
-    const courseInput = document.querySelectorAll('.course-code')[index];
-    const courseCode = courseInput.value.trim();
+  const courseInput = document.querySelectorAll(".course-code")[index];
+  const courseCode = courseInput.value.trim();
 
-    const dropdown = document.createElement('div');
-    dropdown.className = 'dropdown';
-    dropdown.id = `section-dropdown-${index}`;
-    dropdown.setAttribute('role', 'listbox');
-    dropdown.style.minWidth = '100px';
+  const dropdown = document.createElement("div");
+  dropdown.className = "dropdown";
+  dropdown.id = `section-dropdown-${index}`;
+  dropdown.setAttribute("role", "listbox");
+  dropdown.style.minWidth = "100px";
 
-    let filtered = [];
-    if (courseCode) {
-        filtered = data.getSectionsForCourse(courseCode);
-        const filter = input.value.trim().toLowerCase();
-        filtered = filtered.filter(section =>
-            section.toLowerCase().includes(filter));
-    }
+  let filtered = [];
+  if (courseCode) {
+    filtered = data.getSectionsForCourse(courseCode);
+    const filter = input.value.trim().toLowerCase();
+    filtered = filtered.filter((section) =>
+      section.toLowerCase().includes(filter)
+    );
+  }
 
-    if (filtered.length === 0) {
-        const noOpt = document.createElement('div');
-        noOpt.className = 'dropdown-option disabled';
-        noOpt.textContent = courseCode ? 'No sections found' : 'Select a course first';
-        dropdown.appendChild(noOpt);
-    } else {
-        filtered
-            .sort((a, b) => (parseInt(a, 10) || 0) - (parseInt(b, 10) || 0))
-            .forEach((section, optionIndex) => {
-                const option = document.createElement('div');
-                option.className = 'dropdown-option';
-                option.setAttribute('role', 'option');
-                option.setAttribute('tabindex', '-1');
-                option.setAttribute('data-index', optionIndex.toString());
-                option.textContent = section;
+  if (filtered.length === 0) {
+    const noOpt = document.createElement("div");
+    noOpt.className = "dropdown-option disabled";
+    noOpt.textContent = courseCode
+      ? "No sections found"
+      : "Select a course first";
+    dropdown.appendChild(noOpt);
+  } else {
+    filtered
+      .sort((a, b) => (parseInt(a, 10) || 0) - (parseInt(b, 10) || 0))
+      .forEach((section, optionIndex) => {
+        const option = document.createElement("div");
+        option.className = "dropdown-option";
+        option.setAttribute("role", "option");
+        option.setAttribute("tabindex", "-1");
+        option.setAttribute("data-index", optionIndex.toString());
+        option.textContent = section;
 
-                option.addEventListener('mouseenter', () => {
-                    dropdown.querySelectorAll('.dropdown-option').forEach(opt =>
-                        opt.classList.remove('active'));
-                    option.classList.add('active');
-                });
+        option.addEventListener("mouseenter", () => {
+          dropdown
+            .querySelectorAll(".dropdown-option")
+            .forEach((opt) => opt.classList.remove("active"));
+          option.classList.add("active");
+        });
 
-                option.addEventListener('mousedown', (e) => {
-                    e.preventDefault();
-                    selectSection(input, section, index);
-                });
+        option.addEventListener("mousedown", (e) => {
+          e.preventDefault();
+          selectSection(input, section, index);
+        });
 
-                dropdown.appendChild(option);
-            });
-    }
+        dropdown.appendChild(option);
+      });
+  }
 
-    document.body.appendChild(dropdown);
-    positionDropdown(dropdown, input);
-    setupKeyboardNav(dropdown, input, index, 'section');
+  document.body.appendChild(dropdown);
+  positionDropdown(dropdown, input);
+  setupKeyboardNav(dropdown, input, index, "section");
 }
 
 /**
@@ -119,26 +125,26 @@ function showSectionDropdown(input, index) {
  * @param {HTMLElement} input - The input element
  */
 function positionDropdown(dropdown, input) {
-    const inputRect = input.getBoundingClientRect();
-    const scrollY = window.scrollY;
-    const viewportHeight = window.innerHeight;
+  const inputRect = input.getBoundingClientRect();
+  const scrollY = window.scrollY;
+  const viewportHeight = window.innerHeight;
 
-    // Position horizontally
-    dropdown.style.left = inputRect.left + 'px';
-    dropdown.style.width = inputRect.width + 'px';
+  // Position horizontally
+  dropdown.style.left = inputRect.left + "px";
+  dropdown.style.width = inputRect.width + "px";
 
-    // Check if there's room below
-    const spaceBelow = viewportHeight - inputRect.bottom;
-    const spaceAbove = inputRect.top;
-    const dropdownHeight = dropdown.offsetHeight;
+  // Check if there's room below
+  const spaceBelow = viewportHeight - inputRect.bottom;
+  const spaceAbove = inputRect.top;
+  const dropdownHeight = dropdown.offsetHeight;
 
-    if (spaceBelow >= dropdownHeight || spaceBelow >= spaceAbove) {
-        // Position below
-        dropdown.style.top = (inputRect.bottom + scrollY) + 'px';
-    } else {
-        // Position above
-        dropdown.style.top = (inputRect.top + scrollY - dropdownHeight) + 'px';
-    }
+  if (spaceBelow >= dropdownHeight || spaceBelow >= spaceAbove) {
+    // Position below
+    dropdown.style.top = inputRect.bottom + scrollY + "px";
+  } else {
+    // Position above
+    dropdown.style.top = inputRect.top + scrollY - dropdownHeight + "px";
+  }
 }
 
 /**
@@ -149,47 +155,49 @@ function positionDropdown(dropdown, input) {
  * @param {string} type - Type of dropdown ('course' or 'section')
  */
 function setupKeyboardNav(dropdown, input, index, type) {
-    const options = Array.from(dropdown.querySelectorAll('.dropdown-option:not(.disabled)'));
-    let activeIndex = -1;
+  const options = Array.from(
+    dropdown.querySelectorAll(".dropdown-option:not(.disabled)")
+  );
+  let activeIndex = -1;
 
-    input.addEventListener('keydown', function(e) {
-        switch(e.key) {
-            case 'ArrowDown':
-                e.preventDefault();
-                activeIndex = Math.min(activeIndex + 1, options.length - 1);
-                updateActiveOption();
-                break;
-            case 'ArrowUp':
-                e.preventDefault();
-                activeIndex = Math.max(activeIndex - 1, 0);
-                updateActiveOption();
-                break;
-            case 'Enter':
-                e.preventDefault();
-                if (activeIndex >= 0) {
-                    const selectedOption = options[activeIndex];
-                    if (type === 'course') {
-                        selectCourse(input, selectedOption.textContent, index);
-                    } else {
-                        selectSection(input, selectedOption.textContent, index);
-                    }
-                }
-                break;
-            case 'Escape':
-                e.preventDefault();
-                hideAllDropdowns();
-                input.blur();
-                break;
-        }
-    });
-
-    function updateActiveOption() {
-        options.forEach(opt => opt.classList.remove('active'));
+  input.addEventListener("keydown", function (e) {
+    switch (e.key) {
+      case "ArrowDown":
+        e.preventDefault();
+        activeIndex = Math.min(activeIndex + 1, options.length - 1);
+        updateActiveOption();
+        break;
+      case "ArrowUp":
+        e.preventDefault();
+        activeIndex = Math.max(activeIndex - 1, 0);
+        updateActiveOption();
+        break;
+      case "Enter":
+        e.preventDefault();
         if (activeIndex >= 0) {
-            options[activeIndex].classList.add('active');
-            options[activeIndex].scrollIntoView({ block: 'nearest' });
+          const selectedOption = options[activeIndex];
+          if (type === "course") {
+            selectCourse(input, selectedOption.textContent, index);
+          } else {
+            selectSection(input, selectedOption.textContent, index);
+          }
         }
+        break;
+      case "Escape":
+        e.preventDefault();
+        hideAllDropdowns();
+        input.blur();
+        break;
     }
+  });
+
+  function updateActiveOption() {
+    options.forEach((opt) => opt.classList.remove("active"));
+    if (activeIndex >= 0) {
+      options[activeIndex].classList.add("active");
+      options[activeIndex].scrollIntoView({ block: "nearest" });
+    }
+  }
 }
 
 /**
@@ -199,13 +207,13 @@ function setupKeyboardNav(dropdown, input, index, type) {
  * @param {number} index - The index of the input row
  */
 function selectCourse(input, course, index) {
-    input.value = course;
-    hideAllDropdowns();
-    updateSectionOptions(index);
-    // Focus the section input
-    const sectionInput = document.querySelectorAll('.section')[index];
-    sectionInput.focus();
-    showSectionDropdown(sectionInput, index);
+  input.value = course;
+  hideAllDropdowns();
+  updateSectionOptions(index);
+  // Focus the section input
+  const sectionInput = document.querySelectorAll(".section")[index];
+  sectionInput.focus();
+  showSectionDropdown(sectionInput, index);
 }
 
 /**
@@ -215,11 +223,11 @@ function selectCourse(input, course, index) {
  * @param {number} index - The index of the input row
  */
 function selectSection(input, section, index) {
-    input.value = section;
-    hideAllDropdowns();
-    // Focus the add button
-    const addButton = input.closest('.input-row').querySelector('.add-course');
-    addButton.focus();
+  input.value = section;
+  hideAllDropdowns();
+  // Focus the add button
+  const addButton = input.closest(".input-row").querySelector(".add-course");
+  addButton.focus();
 }
 
 /**
@@ -227,57 +235,75 @@ function selectSection(input, section, index) {
  * @param {number} index - The index of the input row
  */
 function updateSectionOptions(index) {
-    const courseInput = document.querySelectorAll('.course-code')[index];
-    const sectionInput = document.querySelectorAll('.section')[index];
-    const courseCode = courseInput.value.trim().toUpperCase();
+  const courseInput = document.querySelectorAll(".course-code")[index];
+  const sectionInput = document.querySelectorAll(".section")[index];
+  const courseCode = courseInput.value.trim().toUpperCase();
 
-    // Clear section input when course changes
-    sectionInput.value = '';
+  // Clear section input when course changes
+  sectionInput.value = "";
 
-    if (!courseCode) {
-        return;
-    }
+  if (!courseCode) {
+    return;
+  }
 
-    // Show section dropdown with available sections
-    showSectionDropdown(sectionInput, index);
+  // Show section dropdown with available sections
+  showSectionDropdown(sectionInput, index);
 }
 
 /**
  * Hides all dropdowns
  */
 function hideAllDropdowns() {
-    document.querySelectorAll('.dropdown').forEach(dropdown => dropdown.remove());
+  document
+    .querySelectorAll(".dropdown")
+    .forEach((dropdown) => dropdown.remove());
+}
+
+/**
+ * Clears the course and section inputs for a given row index
+ * @param {number} index - The index of the input row
+ */
+function clearInputs(index) {
+  const courseInput = document.querySelectorAll(".course-code")[index];
+  const sectionInput = document.querySelectorAll(".section")[index];
+  if (courseInput) courseInput.value = "";
+  if (sectionInput) sectionInput.value = "";
 }
 
 /**
  * Initialize course input fields with suggestions
  */
 function initializeCourseSuggestions() {
-    const debouncedShowCourseDropdown = utils.debounce((input, index) => {
-        showCourseDropdown(input, index);
-    }, 150);
+  const debouncedShowCourseDropdown = utils.debounce((input, index) => {
+    showCourseDropdown(input, index);
+  }, 150);
 
-    const debouncedShowSectionDropdown = utils.debounce((input, index) => {
-        showSectionDropdown(input, index);
-    }, 150);
+  const debouncedShowSectionDropdown = utils.debounce((input, index) => {
+    showSectionDropdown(input, index);
+  }, 150);
 
-    document.querySelectorAll('.course-code').forEach((input, index) => {
-        input.addEventListener('focus', () => showCourseDropdown(input, index));
-        input.addEventListener('input', () => debouncedShowCourseDropdown(input, index));
-    });
+  document.querySelectorAll(".course-code").forEach((input, index) => {
+    input.addEventListener("focus", () => showCourseDropdown(input, index));
+    input.addEventListener("input", () =>
+      debouncedShowCourseDropdown(input, index)
+    );
+  });
 
-    document.querySelectorAll('.section').forEach((input, index) => {
-        input.addEventListener('focus', () => showSectionDropdown(input, index));
-        input.addEventListener('input', () => debouncedShowSectionDropdown(input, index));
-    });
+  document.querySelectorAll(".section").forEach((input, index) => {
+    input.addEventListener("focus", () => showSectionDropdown(input, index));
+    input.addEventListener("input", () =>
+      debouncedShowSectionDropdown(input, index)
+    );
+  });
 }
 
 // Export dropdown functions
 window.dropdown = {
-    showCourseDropdown,
-    showSectionDropdown,
-    hideAllDropdowns,
-    initializeCourseSuggestions,
-    updateSectionOptions,
-    positionDropdown
+  showCourseDropdown,
+  showSectionDropdown,
+  hideAllDropdowns,
+  initializeCourseSuggestions,
+  updateSectionOptions,
+  positionDropdown,
+  clearInputs, // Export the new function
 };

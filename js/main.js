@@ -223,9 +223,45 @@ function setupEventListeners() {
     });
 
   // Add course buttons
-  document.querySelectorAll(".add-course").forEach((button, index) => {
-    button.addEventListener("click", function () {
-      addCourseFromInput(index);
+  document.querySelectorAll(".add-course").forEach((btn, index) => {
+    btn.addEventListener("click", function () {
+      const courseInput = document.querySelectorAll(".course-code")[index];
+      const sectionInput = document.querySelectorAll(".section")[index];
+      const course = courseInput.value.trim();
+      const section = sectionInput.value.trim();
+
+      if (course && section) {
+        // Find matching exams in the data
+        const matchingExams = data.findExams(course, section);
+
+        if (matchingExams.length > 0) {
+          // Add matching exams to the schedule
+          ui.addExamsToSchedule(matchingExams);
+          ui.showToast(
+            `Added ${course} Section ${section} to exam schedule`,
+            "success"
+          );
+        } else {
+          ui.showToast(
+            `No exam found for ${course} Section ${section}`,
+            "error"
+          );
+        }
+      } else {
+        ui.showToast("Please enter both course code and section", "error");
+      }
+
+      // Clear inputs after adding
+      if (
+        window.dropdown &&
+        typeof window.dropdown.clearInputs === "function"
+      ) {
+        window.dropdown.clearInputs(index);
+      } else {
+        // fallback if dropdown.js not loaded
+        courseInput.value = "";
+        sectionInput.value = "";
+      }
     });
   });
 
