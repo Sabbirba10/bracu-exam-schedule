@@ -69,4 +69,6 @@ node_modules/
 .dataconnect
 
 # python scripts
+script/bil.py
+script/general.py
 script/
