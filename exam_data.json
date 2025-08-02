@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "source": "examData2.pdf",
-    "generated_at": "2025-07-22T01:06:22.943965",
+    "source": "examData.pdf",
+    "generated_at": "2025-08-02T19:54:56.886423",
     "total_entries": 1604,
     "fields_description": {
       "Course": "Course code",
@@ -1544,10 +1544,10 @@
       "Section": "13",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10B-18C",
       "Dept.": "MNS",
-      "RowText": "81 BIO101 13 31-Jul-25 2:00 PM 4:00 PM 10B-18C MNS",
+      "RowText": "81 BIO101 13 31-Jul-25 2:00 PM 3:30 PM 10B-18C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 363.67040000000003,
@@ -1582,10 +1582,10 @@
       "Section": "15",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10D-23C",
       "Dept.": "MNS",
-      "RowText": "83 BIO101 15 31-Jul-25 2:00 PM 4:00 PM 10D-23C MNS",
+      "RowText": "83 BIO101 15 31-Jul-25 2:00 PM 3:30 PM 10D-23C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 386.4704,
@@ -2114,10 +2114,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10H-36C",
       "Dept.": "MNS",
-      "RowText": "111 BTE204 1 31-Jul-25 2:00 PM 4:00 PM 10H-36C MNS",
+      "RowText": "111 BTE204 1 31-Jul-25 2:00 PM 3:30 PM 10H-36C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 705.7164,
@@ -2152,10 +2152,10 @@
       "Section": "3",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10C-21C",
       "Dept.": "MNS",
-      "RowText": "113 BTE204 3 31-Jul-25 2:00 PM 4:00 PM 10C-21C MNS",
+      "RowText": "113 BTE204 3 31-Jul-25 2:00 PM 3:30 PM 10C-21C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 67.22039999999993,
@@ -2722,10 +2722,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10H-38C",
       "Dept.": "MNS",
-      "RowText": "143 BTE403 1 31-Jul-25 2:00 PM 4:00 PM 10H-38C MNS",
+      "RowText": "143 BTE403 1 31-Jul-25 2:00 PM 3:30 PM 10H-38C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 409.2904,
@@ -2836,10 +2836,10 @@
       "Section": "2",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10H-37C",
       "Dept.": "MNS",
-      "RowText": "149 BTE411 2 31-Jul-25 2:00 PM 4:00 PM 10H-37C MNS",
+      "RowText": "149 BTE411 2 31-Jul-25 2:00 PM 3:30 PM 10H-37C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 477.6904,
@@ -9277,10 +9277,10 @@
       "Section": "3",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
-      "Room.": "09H-32C",
+      "End Time": "15:30",
+      "Room.": "07B-11C",
       "Dept.": "CSE",
-      "RowText": "488 CSE321 3 31-Jul-25 2:00 PM 4:00 PM 09H-32C CSE",
+      "RowText": "488 CSE321 3 31-Jul-25 2:00 PM 3:30 PM 07B-11C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 375.0704,
@@ -9296,10 +9296,10 @@
       "Section": "4",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
-      "Room.": "09H-33C",
+      "End Time": "15:30",
+      "Room.": "07B-12C",
       "Dept.": "CSE",
-      "RowText": "489 CSE321 4 31-Jul-25 2:00 PM 4:00 PM 09H-33C CSE",
+      "RowText": "489 CSE321 4 31-Jul-25 2:00 PM 3:30 PM 07B-12C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 386.4704,
@@ -9315,10 +9315,10 @@
       "Section": "5",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
-      "Room.": "09H-34C",
+      "End Time": "15:30",
+      "Room.": "07B-13C",
       "Dept.": "CSE",
-      "RowText": "490 CSE321 5 31-Jul-25 2:00 PM 4:00 PM 09H-34C CSE",
+      "RowText": "490 CSE321 5 31-Jul-25 2:00 PM 3:30 PM 07B-13C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 397.8704,
@@ -9334,10 +9334,10 @@
       "Section": "6",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
-      "Room.": "09H-35C",
+      "End Time": "15:30",
+      "Room.": "07B-14C",
       "Dept.": "CSE",
-      "RowText": "491 CSE321 6 31-Jul-25 2:00 PM 4:00 PM 09H-35C CSE",
+      "RowText": "491 CSE321 6 31-Jul-25 2:00 PM 3:30 PM 07B-14C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 409.2904,
@@ -9353,10 +9353,10 @@
       "Section": "7",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07B-15C",
       "Dept.": "CSE",
-      "RowText": "492 CSE321 7 31-Jul-25 2:00 PM 4:00 PM 07B-15C CSE",
+      "RowText": "492 CSE321 7 31-Jul-25 2:00 PM 3:30 PM 07B-15C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 420.6904,
@@ -9364,7 +9364,7 @@
         "y1": 429.9304
       },
       "Page Number": 9,
-      "Line Number": 33
+      "Line Number": 29
     },
     {
       "SL.": "493",
@@ -9372,10 +9372,10 @@
       "Section": "8",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07B-16C",
       "Dept.": "CSE",
-      "RowText": "493 CSE321 8 31-Jul-25 2:00 PM 4:00 PM 07B-16C CSE",
+      "RowText": "493 CSE321 8 31-Jul-25 2:00 PM 3:30 PM 07B-16C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 432.0904,
@@ -9391,10 +9391,10 @@
       "Section": "9",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07B-17C",
       "Dept.": "CSE",
-      "RowText": "494 CSE321 9 31-Jul-25 2:00 PM 4:00 PM 07B-17C CSE",
+      "RowText": "494 CSE321 9 31-Jul-25 2:00 PM 3:30 PM 07B-17C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 443.4904,
@@ -9402,7 +9402,7 @@
         "y1": 452.73040000000003
       },
       "Page Number": 9,
-      "Line Number": 29
+      "Line Number": 30
     },
     {
       "SL.": "495",
@@ -9410,10 +9410,10 @@
       "Section": "10",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07D-19C",
       "Dept.": "CSE",
-      "RowText": "495 CSE321 10 31-Jul-25 2:00 PM 4:00 PM 07D-19C CSE",
+      "RowText": "495 CSE321 10 31-Jul-25 2:00 PM 3:30 PM 07D-19C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 454.8904,
@@ -9429,10 +9429,10 @@
       "Section": "11",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07D-20C",
       "Dept.": "CSE",
-      "RowText": "496 CSE321 11 31-Jul-25 2:00 PM 4:00 PM 07D-20C CSE",
+      "RowText": "496 CSE321 11 31-Jul-25 2:00 PM 3:30 PM 07D-20C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 466.2904,
@@ -9440,7 +9440,7 @@
         "y1": 475.5304
       },
       "Page Number": 9,
-      "Line Number": 37
+      "Line Number": 29
     },
     {
       "SL.": "497",
@@ -9448,10 +9448,10 @@
       "Section": "12",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07D-21C",
       "Dept.": "CSE",
-      "RowText": "497 CSE321 12 31-Jul-25 2:00 PM 4:00 PM 07D-21C CSE",
+      "RowText": "497 CSE321 12 31-Jul-25 2:00 PM 3:30 PM 07D-21C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 477.6904,
@@ -9459,7 +9459,7 @@
         "y1": 486.9304
       },
       "Page Number": 9,
-      "Line Number": 38
+      "Line Number": 30
     },
     {
       "SL.": "498",
@@ -9467,10 +9467,10 @@
       "Section": "13",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07F-22C",
       "Dept.": "CSE",
-      "RowText": "498 CSE321 13 31-Jul-25 2:00 PM 4:00 PM 07F-22C CSE",
+      "RowText": "498 CSE321 13 31-Jul-25 2:00 PM 3:30 PM 07F-22C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 489.0904,
@@ -9478,7 +9478,7 @@
         "y1": 498.3304
       },
       "Page Number": 9,
-      "Line Number": 39
+      "Line Number": 31
     },
     {
       "SL.": "499",
@@ -9486,10 +9486,10 @@
       "Section": "14",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07H-26C",
       "Dept.": "CSE",
-      "RowText": "499 CSE321 14 31-Jul-25 2:00 PM 4:00 PM 07H-26C CSE",
+      "RowText": "499 CSE321 14 31-Jul-25 2:00 PM 3:30 PM 07H-26C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 500.4904,
@@ -9497,7 +9497,7 @@
         "y1": 509.73040000000003
       },
       "Page Number": 9,
-      "Line Number": 40
+      "Line Number": 32
     },
     {
       "SL.": "500",
@@ -9505,10 +9505,10 @@
       "Section": "15",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07H-27C",
       "Dept.": "CSE",
-      "RowText": "500 CSE321 15 31-Jul-25 2:00 PM 4:00 PM 07H-27C CSE",
+      "RowText": "500 CSE321 15 31-Jul-25 2:00 PM 3:30 PM 07H-27C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 511.8904,
@@ -9524,10 +9524,10 @@
       "Section": "16",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07H-29C",
       "Dept.": "CSE",
-      "RowText": "501 CSE321 16 31-Jul-25 2:00 PM 4:00 PM 07H-29C CSE",
+      "RowText": "501 CSE321 16 31-Jul-25 2:00 PM 3:30 PM 07H-29C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 523.2904,
@@ -9543,10 +9543,10 @@
       "Section": "17",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07H-30C",
       "Dept.": "CSE",
-      "RowText": "502 CSE321 17 31-Jul-25 2:00 PM 4:00 PM 07H-30C CSE",
+      "RowText": "502 CSE321 17 31-Jul-25 2:00 PM 3:30 PM 07H-30C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 534.6904,
@@ -9562,10 +9562,10 @@
       "Section": "18",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07H-31C",
       "Dept.": "CSE",
-      "RowText": "503 CSE321 18 31-Jul-25 2:00 PM 4:00 PM 07H-31C CSE",
+      "RowText": "503 CSE321 18 31-Jul-25 2:00 PM 3:30 PM 07H-31C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 546.0904,
@@ -9581,10 +9581,10 @@
       "Section": "19",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-05C",
       "Dept.": "CSE",
-      "RowText": "504 CSE321 19 31-Jul-25 2:00 PM 4:00 PM 08A-05C CSE",
+      "RowText": "504 CSE321 19 31-Jul-25 2:00 PM 3:30 PM 08A-05C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 557.4904,
@@ -9600,10 +9600,10 @@
       "Section": "21",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08B-07C",
       "Dept.": "CSE",
-      "RowText": "505 CSE321 21 31-Jul-25 2:00 PM 4:00 PM 08B-07C CSE",
+      "RowText": "505 CSE321 21 31-Jul-25 2:00 PM 3:30 PM 08B-07C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 568.8904,
@@ -9619,10 +9619,10 @@
       "Section": "22",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08B-08C",
       "Dept.": "CSE",
-      "RowText": "506 CSE321 22 31-Jul-25 2:00 PM 4:00 PM 08B-08C CSE",
+      "RowText": "506 CSE321 22 31-Jul-25 2:00 PM 3:30 PM 08B-08C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 580.3204000000001,
@@ -9638,10 +9638,10 @@
       "Section": "23",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08B-09C",
       "Dept.": "CSE",
-      "RowText": "507 CSE321 23 31-Jul-25 2:00 PM 4:00 PM 08B-09C CSE",
+      "RowText": "507 CSE321 23 31-Jul-25 2:00 PM 3:30 PM 08B-09C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 591.7204,
@@ -9657,10 +9657,10 @@
       "Section": "24",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08B-10C",
       "Dept.": "CSE",
-      "RowText": "508 CSE321 24 31-Jul-25 2:00 PM 4:00 PM 08B-10C CSE",
+      "RowText": "508 CSE321 24 31-Jul-25 2:00 PM 3:30 PM 08B-10C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 603.1204,
@@ -9676,10 +9676,10 @@
       "Section": "25",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08D-12C",
       "Dept.": "CSE",
-      "RowText": "509 CSE321 25 31-Jul-25 2:00 PM 4:00 PM 08D-12C CSE",
+      "RowText": "509 CSE321 25 31-Jul-25 2:00 PM 3:30 PM 08D-12C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 614.5204,
@@ -9695,10 +9695,10 @@
       "Section": "26",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08F-21C",
       "Dept.": "CSE",
-      "RowText": "510 CSE321 26 31-Jul-25 2:00 PM 4:00 PM 08F-21C CSE",
+      "RowText": "510 CSE321 26 31-Jul-25 2:00 PM 3:30 PM 08F-21C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 625.9204,
@@ -9714,10 +9714,10 @@
       "Section": "27",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09A-01C",
       "Dept.": "CSE",
-      "RowText": "511 CSE321 27 31-Jul-25 2:00 PM 4:00 PM 09A-01C CSE",
+      "RowText": "511 CSE321 27 31-Jul-25 2:00 PM 3:30 PM 09A-01C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 637.3204000000001,
@@ -9733,10 +9733,10 @@
       "Section": "28",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09A-02C",
       "Dept.": "CSE",
-      "RowText": "512 CSE321 28 31-Jul-25 2:00 PM 4:00 PM 09A-02C CSE",
+      "RowText": "512 CSE321 28 31-Jul-25 2:00 PM 3:30 PM 09A-02C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 648.7204,
@@ -9752,10 +9752,10 @@
       "Section": "29",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09A-03C",
       "Dept.": "CSE",
-      "RowText": "513 CSE321 29 31-Jul-25 2:00 PM 4:00 PM 09A-03C CSE",
+      "RowText": "513 CSE321 29 31-Jul-25 2:00 PM 3:30 PM 09A-03C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 660.1204,
@@ -9771,10 +9771,10 @@
       "Section": "30",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09A-04C",
       "Dept.": "CSE",
-      "RowText": "514 CSE321 30 31-Jul-25 2:00 PM 4:00 PM 09A-04C CSE",
+      "RowText": "514 CSE321 30 31-Jul-25 2:00 PM 3:30 PM 09A-04C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 671.5204,
@@ -9782,7 +9782,7 @@
         "y1": 680.7604
       },
       "Page Number": 9,
-      "Line Number": 43
+      "Line Number": 29
     },
     {
       "SL.": "515",
@@ -9790,10 +9790,10 @@
       "Section": "31",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09A-05C",
       "Dept.": "CSE",
-      "RowText": "515 CSE321 31 31-Jul-25 2:00 PM 4:00 PM 09A-05C CSE",
+      "RowText": "515 CSE321 31 31-Jul-25 2:00 PM 3:30 PM 09A-05C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 682.9204,
@@ -9809,10 +9809,10 @@
       "Section": "32",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09A-06C",
       "Dept.": "CSE",
-      "RowText": "516 CSE321 32 31-Jul-25 2:00 PM 4:00 PM 09A-06C CSE",
+      "RowText": "516 CSE321 32 31-Jul-25 2:00 PM 3:30 PM 09A-06C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 694.3164,
@@ -9828,10 +9828,10 @@
       "Section": "33",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09H-32C",
       "Dept.": "CSE",
-      "RowText": "517 CSE321 33 31-Jul-25 2:00 PM 4:00 PM 09H-32C CSE",
+      "RowText": "517 CSE321 33 31-Jul-25 2:00 PM 3:30 PM 09H-32C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 705.7164,
@@ -9839,7 +9839,7 @@
         "y1": 714.9564
       },
       "Page Number": 9,
-      "Line Number": 30
+      "Line Number": 58
     },
     {
       "SL.": "518",
@@ -11330,9 +11330,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "08A-01C",
+      "Room.": "07A-09C",
       "Dept.": "CSE",
-      "RowText": "596 CSE341 1 28-Jul-25 4:30 PM 6:00 PM 08A-01C CSE",
+      "RowText": "596 CSE341 1 28-Jul-25 4:30 PM 6:00 PM 07A-09C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 283.8704,
@@ -11349,9 +11349,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "08A-02C",
+      "Room.": "07A-10C",
       "Dept.": "CSE",
-      "RowText": "597 CSE341 2 28-Jul-25 4:30 PM 6:00 PM 08A-02C CSE",
+      "RowText": "597 CSE341 2 28-Jul-25 4:30 PM 6:00 PM 07A-10C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 295.2704,
@@ -11368,9 +11368,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "08A-01C",
+      "Room.": "07B-11C",
       "Dept.": "CSE",
-      "RowText": "598 CSE341 3 28-Jul-25 4:30 PM 6:00 PM 08A-01C CSE",
+      "RowText": "598 CSE341 3 28-Jul-25 4:30 PM 6:00 PM 07B-11C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 306.67040000000003,
@@ -11387,9 +11387,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "08A-02C",
+      "Room.": "07B-13C",
       "Dept.": "CSE",
-      "RowText": "599 CSE341 4 28-Jul-25 4:30 PM 6:00 PM 08A-02C CSE",
+      "RowText": "599 CSE341 4 28-Jul-25 4:30 PM 6:00 PM 07B-13C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 318.0704,
@@ -11406,9 +11406,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "07B-15C",
+      "Room.": "07B-14C",
       "Dept.": "CSE",
-      "RowText": "600 CSE341 5 28-Jul-25 4:30 PM 6:00 PM 07B-15C CSE",
+      "RowText": "600 CSE341 5 28-Jul-25 4:30 PM 6:00 PM 07B-14C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 329.4704,
@@ -11425,9 +11425,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "07B-16C",
+      "Room.": "07B-15C",
       "Dept.": "CSE",
-      "RowText": "601 CSE341 6 28-Jul-25 4:30 PM 6:00 PM 07B-16C CSE",
+      "RowText": "601 CSE341 6 28-Jul-25 4:30 PM 6:00 PM 07B-15C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 340.8704,
@@ -11444,9 +11444,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "08B-07C",
+      "Room.": "07B-16C",
       "Dept.": "CSE",
-      "RowText": "602 CSE341 7 28-Jul-25 4:30 PM 6:00 PM 08B-07C CSE",
+      "RowText": "602 CSE341 7 28-Jul-25 4:30 PM 6:00 PM 07B-16C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 352.2704,
@@ -11454,7 +11454,7 @@
         "y1": 361.5104
       },
       "Page Number": 11,
-      "Line Number": 22
+      "Line Number": 21
     },
     {
       "SL.": "603",
@@ -11463,9 +11463,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "08A-05C",
+      "Room.": "07B-17C",
       "Dept.": "CSE",
-      "RowText": "603 CSE341 8 28-Jul-25 4:30 PM 6:00 PM 08A-05C CSE",
+      "RowText": "603 CSE341 8 28-Jul-25 4:30 PM 6:00 PM 07B-17C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 363.67040000000003,
@@ -11482,9 +11482,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "08A-06C",
+      "Room.": "07B-18C",
       "Dept.": "CSE",
-      "RowText": "604 CSE341 9 28-Jul-25 4:30 PM 6:00 PM 08A-06C CSE",
+      "RowText": "604 CSE341 9 28-Jul-25 4:30 PM 6:00 PM 07B-18C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 375.0704,
@@ -11501,9 +11501,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09C-15C",
+      "Room.": "08F-21C",
       "Dept.": "CSE",
-      "RowText": "605 CSE350 1 26-Jul-25 4:30 PM 6:00 PM 09C-15C CSE",
+      "RowText": "605 CSE350 1 26-Jul-25 4:30 PM 6:00 PM 08F-21C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 386.4704,
@@ -11520,9 +11520,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "07H-29C",
+      "Room.": "08H-22C",
       "Dept.": "CSE",
-      "RowText": "606 CSE350 2 26-Jul-25 4:30 PM 6:00 PM 07H-29C CSE",
+      "RowText": "606 CSE350 2 26-Jul-25 4:30 PM 6:00 PM 08H-22C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 397.8704,
@@ -11539,9 +11539,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "12A-11C",
+      "Room.": "09A-01C",
       "Dept.": "CSE",
-      "RowText": "607 CSE350 3 26-Jul-25 4:30 PM 6:00 PM 12A-11C CSE",
+      "RowText": "607 CSE350 3 26-Jul-25 4:30 PM 6:00 PM 09A-01C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 409.2904,
@@ -11558,9 +11558,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "12A-12C",
+      "Room.": "09A-02C",
       "Dept.": "CSE",
-      "RowText": "608 CSE350 4 26-Jul-25 4:30 PM 6:00 PM 12A-12C CSE",
+      "RowText": "608 CSE350 4 26-Jul-25 4:30 PM 6:00 PM 09A-02C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 420.6904,
@@ -11577,9 +11577,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "10B-18C",
+      "Room.": "09A-03C",
       "Dept.": "CSE",
-      "RowText": "609 CSE350 5 26-Jul-25 4:30 PM 6:00 PM 10B-18C CSE",
+      "RowText": "609 CSE350 5 26-Jul-25 4:30 PM 6:00 PM 09A-03C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 432.0904,
@@ -11596,9 +11596,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "12A-13C",
+      "Room.": "09A-04C",
       "Dept.": "CSE",
-      "RowText": "610 CSE350 6 26-Jul-25 4:30 PM 6:00 PM 12A-13C CSE",
+      "RowText": "610 CSE350 6 26-Jul-25 4:30 PM 6:00 PM 09A-04C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 443.4904,
@@ -11615,9 +11615,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "07A-06C",
+      "Room.": "09A-05C",
       "Dept.": "CSE",
-      "RowText": "611 CSE350 7 26-Jul-25 4:30 PM 6:00 PM 07A-06C CSE",
+      "RowText": "611 CSE350 7 26-Jul-25 4:30 PM 6:00 PM 09A-05C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 454.8904,
@@ -11625,7 +11625,7 @@
         "y1": 464.1304
       },
       "Page Number": 11,
-      "Line Number": 31
+      "Line Number": 32
     },
     {
       "SL.": "612",
@@ -11634,9 +11634,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "07A-07C",
+      "Room.": "09A-06C",
       "Dept.": "CSE",
-      "RowText": "612 CSE350 8 26-Jul-25 4:30 PM 6:00 PM 07A-07C CSE",
+      "RowText": "612 CSE350 8 26-Jul-25 4:30 PM 6:00 PM 09A-06C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 466.2904,
@@ -11644,7 +11644,7 @@
         "y1": 475.5304
       },
       "Page Number": 11,
-      "Line Number": 33
+      "Line Number": 30
     },
     {
       "SL.": "613",
@@ -11653,9 +11653,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09E-23C",
+      "Room.": "09A-07C",
       "Dept.": "CSE",
-      "RowText": "613 CSE350 9 26-Jul-25 4:30 PM 6:00 PM 09E-23C CSE",
+      "RowText": "613 CSE350 9 26-Jul-25 4:30 PM 6:00 PM 09A-07C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 477.6904,
@@ -11663,7 +11663,7 @@
         "y1": 486.9304
       },
       "Page Number": 11,
-      "Line Number": 30
+      "Line Number": 32
     },
     {
       "SL.": "614",
@@ -11672,9 +11672,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09G-28C",
+      "Room.": "09B-12C",
       "Dept.": "CSE",
-      "RowText": "614 CSE350 10 26-Jul-25 4:30 PM 6:00 PM 09G-28C CSE",
+      "RowText": "614 CSE350 10 26-Jul-25 4:30 PM 6:00 PM 09B-12C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 489.0904,
@@ -11682,7 +11682,7 @@
         "y1": 498.3304
       },
       "Page Number": 11,
-      "Line Number": 34
+      "Line Number": 35
     },
     {
       "SL.": "615",
@@ -11691,9 +11691,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09A-01C",
+      "Room.": "09D-17C",
       "Dept.": "CSE",
-      "RowText": "615 CSE350 11 26-Jul-25 4:30 PM 6:00 PM 09A-01C CSE",
+      "RowText": "615 CSE350 11 26-Jul-25 4:30 PM 6:00 PM 09D-17C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 500.4904,
@@ -11701,7 +11701,7 @@
         "y1": 509.73040000000003
       },
       "Page Number": 11,
-      "Line Number": 32
+      "Line Number": 36
     },
     {
       "SL.": "616",
@@ -11710,9 +11710,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09A-02C",
+      "Room.": "09D-18C",
       "Dept.": "CSE",
-      "RowText": "616 CSE350 12 26-Jul-25 4:30 PM 6:00 PM 09A-02C CSE",
+      "RowText": "616 CSE350 12 26-Jul-25 4:30 PM 6:00 PM 09D-18C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 511.8904,
@@ -11720,7 +11720,7 @@
         "y1": 521.1304
       },
       "Page Number": 11,
-      "Line Number": 32
+      "Line Number": 37
     },
     {
       "SL.": "617",
@@ -11729,9 +11729,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09A-03C",
+      "Room.": "09H-33C",
       "Dept.": "CSE",
-      "RowText": "617 CSE350 13 26-Jul-25 4:30 PM 6:00 PM 09A-03C CSE",
+      "RowText": "617 CSE350 13 26-Jul-25 4:30 PM 6:00 PM 09H-33C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 523.2904,
@@ -11739,7 +11739,7 @@
         "y1": 532.5304
       },
       "Page Number": 11,
-      "Line Number": 35
+      "Line Number": 38
     },
     {
       "SL.": "618",
@@ -11748,9 +11748,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09A-04C",
+      "Room.": "09H-34C",
       "Dept.": "CSE",
-      "RowText": "618 CSE350 14 26-Jul-25 4:30 PM 6:00 PM 09A-04C CSE",
+      "RowText": "618 CSE350 14 26-Jul-25 4:30 PM 6:00 PM 09H-34C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 534.6904,
@@ -11767,9 +11767,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09A-05C",
+      "Room.": "09H-35C",
       "Dept.": "CSE",
-      "RowText": "619 CSE350 15 26-Jul-25 4:30 PM 6:00 PM 09A-05C CSE",
+      "RowText": "619 CSE350 15 26-Jul-25 4:30 PM 6:00 PM 09H-35C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 546.0904,
@@ -11777,7 +11777,7 @@
         "y1": 555.3304
       },
       "Page Number": 11,
-      "Line Number": 30
+      "Line Number": 40
     },
     {
       "SL.": "620",
@@ -11786,9 +11786,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09A-06C",
+      "Room.": "09H-36C",
       "Dept.": "CSE",
-      "RowText": "620 CSE350 16 26-Jul-25 4:30 PM 6:00 PM 09A-06C CSE",
+      "RowText": "620 CSE350 16 26-Jul-25 4:30 PM 6:00 PM 09H-36C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 557.4904,
@@ -11805,9 +11805,9 @@
       "Final Date": "2025-07-26",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09A-07C",
+      "Room.": "10A-04C",
       "Dept.": "CSE",
-      "RowText": "621 CSE350 17 26-Jul-25 4:30 PM 6:00 PM 09A-07C CSE",
+      "RowText": "621 CSE350 17 26-Jul-25 4:30 PM 6:00 PM 10A-04C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 568.8904,
@@ -11815,7 +11815,7 @@
         "y1": 578.1304
       },
       "Page Number": 11,
-      "Line Number": 42
+      "Line Number": 40
     },
     {
       "SL.": "622",
@@ -11824,9 +11824,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09B-12C",
+      "Room.": "07D-19C",
       "Dept.": "CSE",
-      "RowText": "622 CSE360 1 28-Jul-25 4:30 PM 6:00 PM 09B-12C CSE",
+      "RowText": "622 CSE360 1 28-Jul-25 4:30 PM 6:00 PM 07D-19C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 580.3204000000001,
@@ -11843,9 +11843,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09D-17C",
+      "Room.": "07D-20C",
       "Dept.": "CSE",
-      "RowText": "623 CSE360 2 28-Jul-25 4:30 PM 6:00 PM 09D-17C CSE",
+      "RowText": "623 CSE360 2 28-Jul-25 4:30 PM 6:00 PM 07D-20C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 591.7204,
@@ -11862,9 +11862,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09D-18C",
+      "Room.": "07D-21C",
       "Dept.": "CSE",
-      "RowText": "624 CSE360 3 28-Jul-25 4:30 PM 6:00 PM 09D-18C CSE",
+      "RowText": "624 CSE360 3 28-Jul-25 4:30 PM 6:00 PM 07D-21C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 603.1204,
@@ -11881,9 +11881,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09H-32C",
+      "Room.": "07F-22C",
       "Dept.": "CSE",
-      "RowText": "625 CSE360 5 28-Jul-25 4:30 PM 6:00 PM 09H-32C CSE",
+      "RowText": "625 CSE360 5 28-Jul-25 4:30 PM 6:00 PM 07F-22C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 614.5204,
@@ -11900,9 +11900,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09H-33C",
+      "Room.": "07H-26C",
       "Dept.": "CSE",
-      "RowText": "626 CSE360 6 28-Jul-25 4:30 PM 6:00 PM 09H-33C CSE",
+      "RowText": "626 CSE360 6 28-Jul-25 4:30 PM 6:00 PM 07H-26C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 625.9204,
@@ -11919,9 +11919,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09H-34C",
+      "Room.": "07H-27C",
       "Dept.": "CSE",
-      "RowText": "627 CSE360 7 28-Jul-25 4:30 PM 6:00 PM 09H-34C CSE",
+      "RowText": "627 CSE360 7 28-Jul-25 4:30 PM 6:00 PM 07H-27C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 637.3204000000001,
@@ -11929,7 +11929,7 @@
         "y1": 646.5604000000001
       },
       "Page Number": 11,
-      "Line Number": 48
+      "Line Number": 47
     },
     {
       "SL.": "628",
@@ -11938,9 +11938,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09H-35C",
+      "Room.": "07H-28C",
       "Dept.": "CSE",
-      "RowText": "628 CSE360 8 28-Jul-25 4:30 PM 6:00 PM 09H-35C CSE",
+      "RowText": "628 CSE360 8 28-Jul-25 4:30 PM 6:00 PM 07H-28C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 648.7204,
@@ -11957,9 +11957,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "09H-36C",
+      "Room.": "07H-29C",
       "Dept.": "CSE",
-      "RowText": "629 CSE360 9 28-Jul-25 4:30 PM 6:00 PM 09H-36C CSE",
+      "RowText": "629 CSE360 9 28-Jul-25 4:30 PM 6:00 PM 07H-29C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 660.1204,
@@ -11976,9 +11976,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
-      "Room.": "12A-09C",
+      "Room.": "07H-30C",
       "Dept.": "CSE",
-      "RowText": "630 CSE360 10 28-Jul-25 4:30 PM 6:00 PM 12A-09C CSE",
+      "RowText": "630 CSE360 10 28-Jul-25 4:30 PM 6:00 PM 07H-30C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 671.5204,
@@ -13116,9 +13116,9 @@
       "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
-      "Room.": "08D-14C",
+      "Room.": "07B-15C",
       "Dept.": "CSE",
-      "RowText": "690 CSE422 1 31-Jul-25 11:00 AM 12:30 PM 08D-14C CSE",
+      "RowText": "690 CSE422 1 31-Jul-25 11:00 AM 12:30 PM 07B-15C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 694.3164,
@@ -13135,9 +13135,9 @@
       "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
-      "Room.": "09D-17C",
+      "Room.": "07B-16C",
       "Dept.": "CSE",
-      "RowText": "691 CSE422 2 31-Jul-25 11:00 AM 12:30 PM 09D-17C CSE",
+      "RowText": "691 CSE422 2 31-Jul-25 11:00 AM 12:30 PM 07B-16C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 705.7164,
@@ -13154,9 +13154,9 @@
       "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
-      "Room.": "10H-37C",
+      "Room.": "07B-17C",
       "Dept.": "CSE",
-      "RowText": "692 CSE422 3 31-Jul-25 11:00 AM 12:30 PM 10H-37C CSE",
+      "RowText": "692 CSE422 3 31-Jul-25 11:00 AM 12:30 PM 07B-17C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 717.1164,
@@ -14313,9 +14313,9 @@
       "Final Date": "2025-07-27",
       "Start Time": "11:00",
       "End Time": "12:30",
-      "Room.": "09E-20T",
+      "Room.": "10A-05C",
       "Dept.": "CSE",
-      "RowText": "753 CSE424 1 27-Jul-25 11:00 AM 12:30 PM 09E-20T CSE",
+      "RowText": "753 CSE424 1 27-Jul-25 11:00 AM 12:30 PM 10A-05C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 90.04039999999998,
@@ -14388,10 +14388,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09H-37C",
       "Dept.": "CSE",
-      "RowText": "757 CSE426 1 31-Jul-25 2:00 PM 4:00 PM 09H-37C CSE",
+      "RowText": "757 CSE426 1 31-Jul-25 2:00 PM 3:30 PM 09H-37C CSE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 135.6404,
@@ -16042,9 +16042,9 @@
       "Final Date": "2025-08-02",
       "Start Time": "14:00",
       "End Time": "15:30",
-      "Room.": "09D-17C",
+      "Room.": "07B-18C",
       "Dept.": "GenEd",
-      "RowText": "844 CST302 1 2-Aug-25 2:00 PM 3:30 PM 09D-17C GenEd",
+      "RowText": "844 CST302 1 2-Aug-25 2:00 PM 3:30 PM 07B-18C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 466.2904,
@@ -16061,9 +16061,9 @@
       "Final Date": "2025-08-03",
       "Start Time": "14:00",
       "End Time": "15:30",
-      "Room.": "10H-37C",
+      "Room.": "07B-18C",
       "Dept.": "GenEd",
-      "RowText": "845 CST302 2 3-Aug-25 2:00 PM 3:30 PM 10H-37C GenEd",
+      "RowText": "845 CST302 2 3-Aug-25 2:00 PM 3:30 PM 07B-18C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 477.6904,
@@ -16421,10 +16421,10 @@
       "Section": "2",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-03C",
       "Dept.": "EEE",
-      "RowText": "864 ECE241 2 31-Jul-25 2:00 PM 4:00 PM 08A-03C EEE",
+      "RowText": "864 ECE241 2 31-Jul-25 2:00 PM 3:30 PM 08A-03C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 694.3164,
@@ -16630,10 +16630,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10B-12C",
       "Dept.": "EEE",
-      "RowText": "875 ECE341 1 31-Jul-25 2:00 PM 4:00 PM 10B-12C EEE",
+      "RowText": "875 ECE341 1 31-Jul-25 2:00 PM 3:30 PM 10B-12C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 158.44039999999995,
@@ -16782,10 +16782,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-04C",
       "Dept.": "EEE",
-      "RowText": "883 ECE373 1 31-Jul-25 2:00 PM 4:00 PM 08A-04C EEE",
+      "RowText": "883 ECE373 1 31-Jul-25 2:00 PM 3:30 PM 08A-04C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 249.67039999999997,
@@ -16820,10 +16820,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-02C",
       "Dept.": "EEE",
-      "RowText": "885 ECE385 1 31-Jul-25 2:00 PM 4:00 PM 08A-02C EEE",
+      "RowText": "885 ECE385 1 31-Jul-25 2:00 PM 3:30 PM 08A-02C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 272.4703999999999,
@@ -18758,10 +18758,10 @@
       "Section": "3",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-01C",
       "Dept.": "EEE",
-      "RowText": "987 EEE205 3 31-Jul-25 2:00 PM 4:00 PM 08A-01C EEE",
+      "RowText": "987 EEE205 3 31-Jul-25 2:00 PM 3:30 PM 08A-01C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 112.84039999999993,
@@ -18788,7 +18788,7 @@
         "y1": 133.48039999999992
       },
       "Page Number": 18,
-      "Line Number": 6
+      "Line Number": 7
     },
     {
       "SL.": "989",
@@ -18929,10 +18929,10 @@
       "Section": "2",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-03C",
       "Dept.": "EEE",
-      "RowText": "996 EEE241 2 31-Jul-25 2:00 PM 4:00 PM 08A-03C EEE",
+      "RowText": "996 EEE241 2 31-Jul-25 2:00 PM 3:30 PM 08A-03C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 215.44039999999995,
@@ -19290,10 +19290,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10B-12C",
       "Dept.": "EEE",
-      "RowText": "1015 EEE341 1 31-Jul-25 2:00 PM 4:00 PM 10B-12C EEE",
+      "RowText": "1015 EEE341 1 31-Jul-25 2:00 PM 3:30 PM 10B-12C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 432.0904,
@@ -19462,9 +19462,9 @@
       "Final Date": "2025-07-28",
       "Start Time": "08:30",
       "End Time": "10:00",
-      "Room.": "10H-37C",
+      "Room.": "08A-01C",
       "Dept.": "EEE",
-      "RowText": "1024 EEE365 2 28-Jul-25 8:30 AM 10:00 AM 10H-37C EEE",
+      "RowText": "1024 EEE365 2 28-Jul-25 8:30 AM 10:00 AM 08A-01C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 534.6904,
@@ -19518,10 +19518,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-04C",
       "Dept.": "EEE",
-      "RowText": "1027 EEE373 1 31-Jul-25 2:00 PM 4:00 PM 08A-04C EEE",
+      "RowText": "1027 EEE373 1 31-Jul-25 2:00 PM 3:30 PM 08A-04C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 568.8904,
@@ -19575,10 +19575,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-02C",
       "Dept.": "EEE",
-      "RowText": "1030 EEE385 1 31-Jul-25 2:00 PM 4:00 PM 08A-02C EEE",
+      "RowText": "1030 EEE385 1 31-Jul-25 2:00 PM 3:30 PM 08A-02C EEE",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 603.1204,
@@ -20659,9 +20659,9 @@
       "Final Date": "2025-08-03",
       "Start Time": "11:00",
       "End Time": "12:30",
-      "Room.": "08A-05C",
+      "Room.": "08B-07C",
       "Dept.": "ENH",
-      "RowText": "1087 ENG218 2 3-Aug-25 11:00 AM 12:30 PM 08A-05C ENH",
+      "RowText": "1087 ENG218 2 3-Aug-25 11:00 AM 12:30 PM 08B-07C ENH",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 591.7204,
@@ -20886,10 +20886,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "08A-06C",
       "Dept.": "ENH",
-      "RowText": "1099 ENG401 1 31-Jul-25 2:00 PM 4:00 PM 08A-06C ENH",
+      "RowText": "1099 ENG401 1 31-Jul-25 2:00 PM 3:30 PM 08A-06C ENH",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 67.22039999999993,
@@ -22216,10 +22216,10 @@
       "Section": "12",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "09C-15C",
       "Dept.": "ENH",
-      "RowText": "1169 HST103 12 31-Jul-25 2:00 PM 4:00 PM 09C-15C ENH",
+      "RowText": "1169 HST103 12 31-Jul-25 2:00 PM 3:30 PM 09C-15C ENH",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 204.04039999999998,
@@ -24724,10 +24724,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "12A-11C",
       "Dept.": "MNS",
-      "RowText": "1301 MAT311 1 31-Jul-25 2:00 PM 4:00 PM 12A-11C MNS",
+      "RowText": "1301 MAT311 1 31-Jul-25 2:00 PM 3:30 PM 12A-11C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 386.4704,
@@ -25009,10 +25009,10 @@
       "Section": "2",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-01C",
       "Dept.": "BBS",
-      "RowText": "1316 MGT301 2 31-Jul-25 2:00 PM 4:00 PM 07A-01C BBS",
+      "RowText": "1316 MGT301 2 31-Jul-25 2:00 PM 3:30 PM 07A-01C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 557.4904,
@@ -25028,10 +25028,10 @@
       "Section": "3",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-02C",
       "Dept.": "BBS",
-      "RowText": "1317 MGT301 3 31-Jul-25 2:00 PM 4:00 PM 07A-02C BBS",
+      "RowText": "1317 MGT301 3 31-Jul-25 2:00 PM 3:30 PM 07A-02C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 568.8904,
@@ -25047,10 +25047,10 @@
       "Section": "4",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-03C",
       "Dept.": "BBS",
-      "RowText": "1318 MGT301 4 31-Jul-25 2:00 PM 4:00 PM 07A-03C BBS",
+      "RowText": "1318 MGT301 4 31-Jul-25 2:00 PM 3:30 PM 07A-03C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 580.3204000000001,
@@ -25058,7 +25058,7 @@
         "y1": 589.5604000000001
       },
       "Page Number": 23,
-      "Line Number": 45
+      "Line Number": 47
     },
     {
       "SL.": "1319",
@@ -25066,10 +25066,10 @@
       "Section": "5",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-04C",
       "Dept.": "BBS",
-      "RowText": "1319 MGT301 5 31-Jul-25 2:00 PM 4:00 PM 07A-04C BBS",
+      "RowText": "1319 MGT301 5 31-Jul-25 2:00 PM 3:30 PM 07A-04C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 591.7204,
@@ -25085,10 +25085,10 @@
       "Section": "6",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-05C",
       "Dept.": "BBS",
-      "RowText": "1320 MGT301 6 31-Jul-25 2:00 PM 4:00 PM 07A-05C BBS",
+      "RowText": "1320 MGT301 6 31-Jul-25 2:00 PM 3:30 PM 07A-05C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 603.1204,
@@ -25104,10 +25104,10 @@
       "Section": "7",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-06C",
       "Dept.": "BBS",
-      "RowText": "1321 MGT301 7 31-Jul-25 2:00 PM 4:00 PM 07A-06C BBS",
+      "RowText": "1321 MGT301 7 31-Jul-25 2:00 PM 3:30 PM 07A-06C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 614.5204,
@@ -25123,10 +25123,10 @@
       "Section": "8",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-07C",
       "Dept.": "BBS",
-      "RowText": "1322 MGT301 8 31-Jul-25 2:00 PM 4:00 PM 07A-07C BBS",
+      "RowText": "1322 MGT301 8 31-Jul-25 2:00 PM 3:30 PM 07A-07C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 625.9204,
@@ -25142,10 +25142,10 @@
       "Section": "9",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-08C",
       "Dept.": "BBS",
-      "RowText": "1323 MGT301 9 31-Jul-25 2:00 PM 4:00 PM 07A-08C BBS",
+      "RowText": "1323 MGT301 9 31-Jul-25 2:00 PM 3:30 PM 07A-08C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 637.3204000000001,
@@ -25218,10 +25218,10 @@
       "Section": "1",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-09C",
       "Dept.": "BBS",
-      "RowText": "1327 MGT423 1 31-Jul-25 2:00 PM 4:00 PM 07A-09C BBS",
+      "RowText": "1327 MGT423 1 31-Jul-25 2:00 PM 3:30 PM 07A-09C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 682.9204,
@@ -25237,10 +25237,10 @@
       "Section": "2",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07A-10C",
       "Dept.": "BBS",
-      "RowText": "1328 MGT423 2 31-Jul-25 2:00 PM 4:00 PM 07A-10C BBS",
+      "RowText": "1328 MGT423 2 31-Jul-25 2:00 PM 3:30 PM 07A-10C BBS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 694.3164,
@@ -25636,10 +25636,10 @@
       "Section": "4",
       "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "12A-13C",
       "Dept.": "MNS",
-      "RowText": "1349 MIC201 4 31-Jul-25 2:00 PM 4:00 PM 12A-13C MNS",
+      "RowText": "1349 MIC201 4 31-Jul-25 2:00 PM 3:30 PM 12A-13C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 272.4703999999999,
@@ -28864,12 +28864,12 @@
       "SL.": "1519",
       "Course": "PHY115",
       "Section": "1",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "10D-24C",
       "Dept.": "MNS",
-      "RowText": "1519 PHY115 1 7/30/2025 11:00 AM 12:30 PM 10D-24C MNS",
+      "RowText": "1519 PHY115 1 30-Jul-25 11:00 AM 12:30 PM 10D-24C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 226.84039999999993,
@@ -28883,12 +28883,12 @@
       "SL.": "1520",
       "Course": "PHY202",
       "Section": "1",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "10C-21C",
       "Dept.": "MNS",
-      "RowText": "1520 PHY202 1 7/31/2025 11:00 AM 12:30 PM 10C-21C MNS",
+      "RowText": "1520 PHY202 1 31-Jul-25 11:00 AM 12:30 PM 10C-21C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 238.2403999999999,
@@ -28902,12 +28902,12 @@
       "SL.": "1521",
       "Course": "PHY204",
       "Section": "1",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "10C-21C",
       "Dept.": "MNS",
-      "RowText": "1521 PHY204 1 7/29/2025 11:00 AM 12:30 PM 10C-21C MNS",
+      "RowText": "1521 PHY204 1 29-Jul-25 11:00 AM 12:30 PM 10C-21C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 249.67039999999997,
@@ -28921,12 +28921,12 @@
       "SL.": "1522",
       "Course": "PHY302",
       "Section": "1",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10D-24C",
       "Dept.": "MNS",
-      "RowText": "1522 PHY302 1 7/31/2025 2:00 PM 4:00 PM 10D-24C MNS",
+      "RowText": "1522 PHY302 1 31-Jul-25 2:00 PM 3:30 PM 10D-24C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 261.07039999999995,
@@ -28940,12 +28940,12 @@
       "SL.": "1523",
       "Course": "PHY304",
       "Section": "1",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "10C-21C",
       "Dept.": "MNS",
-      "RowText": "1523 PHY304 1 7/30/2025 2:00 PM 3:30 PM 10C-21C MNS",
+      "RowText": "1523 PHY304 1 30-Jul-25 2:00 PM 3:30 PM 10C-21C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 272.4703999999999,
@@ -28959,12 +28959,12 @@
       "SL.": "1524",
       "Course": "PHY305",
       "Section": "1",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-11C",
       "Dept.": "MNS",
-      "RowText": "1524 PHY305 1 7/31/2025 11:00 AM 12:30 PM 12A-11C MNS",
+      "RowText": "1524 PHY305 1 31-Jul-25 11:00 AM 12:30 PM 12A-11C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 283.8704,
@@ -28978,12 +28978,12 @@
       "SL.": "1525",
       "Course": "PHY419",
       "Section": "1",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "10D-24C",
       "Dept.": "MNS",
-      "RowText": "1525 PHY419 1 7/30/2025 4:30 PM 6:00 PM 10D-24C MNS",
+      "RowText": "1525 PHY419 1 30-Jul-25 4:30 PM 6:00 PM 10D-24C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 295.2704,
@@ -28997,12 +28997,12 @@
       "SL.": "1526",
       "Course": "PSY101",
       "Section": "1",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "08F-21C",
       "Dept.": "GenEd",
-      "RowText": "1526 PSY101 1 8/3/2025 8:30 AM 10:00 AM 08F-21C GenEd",
+      "RowText": "1526 PSY101 1 3-Aug-25 8:30 AM 10:00 AM 08F-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 306.67040000000003,
@@ -29016,12 +29016,12 @@
       "SL.": "1527",
       "Course": "PSY101",
       "Section": "2",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "09E-23C",
       "Dept.": "GenEd",
-      "RowText": "1527 PSY101 2 8/3/2025 8:30 AM 10:00 AM 09E-23C GenEd",
+      "RowText": "1527 PSY101 2 3-Aug-25 8:30 AM 10:00 AM 09E-23C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 318.0704,
@@ -29035,12 +29035,12 @@
       "SL.": "1528",
       "Course": "PSY101",
       "Section": "3",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09E-23C",
       "Dept.": "GenEd",
-      "RowText": "1528 PSY101 3 8/2/2025 11:00 AM 12:30 PM 09E-23C GenEd",
+      "RowText": "1528 PSY101 3 2-Aug-25 11:00 AM 12:30 PM 09E-23C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 329.4704,
@@ -29054,12 +29054,12 @@
       "SL.": "1529",
       "Course": "PSY101",
       "Section": "4",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09G-28C",
       "Dept.": "GenEd",
-      "RowText": "1529 PSY101 4 8/2/2025 11:00 AM 12:30 PM 09G-28C GenEd",
+      "RowText": "1529 PSY101 4 2-Aug-25 11:00 AM 12:30 PM 09G-28C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 340.8704,
@@ -29073,12 +29073,12 @@
       "SL.": "1530",
       "Course": "PSY101",
       "Section": "5",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "08F-21C",
       "Dept.": "GenEd",
-      "RowText": "1530 PSY101 5 8/3/2025 11:00 AM 12:30 PM 08F-21C GenEd",
+      "RowText": "1530 PSY101 5 3-Aug-25 11:00 AM 12:30 PM 08F-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 352.2704,
@@ -29092,12 +29092,12 @@
       "SL.": "1531",
       "Course": "PSY101",
       "Section": "6",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "08F-21C",
       "Dept.": "GenEd",
-      "RowText": "1531 PSY101 6 8/2/2025 2:00 PM 3:30 PM 08F-21C GenEd",
+      "RowText": "1531 PSY101 6 2-Aug-25 2:00 PM 3:30 PM 08F-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 363.67040000000003,
@@ -29111,12 +29111,12 @@
       "SL.": "1532",
       "Course": "PSY101",
       "Section": "7",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "08F-21C",
       "Dept.": "GenEd",
-      "RowText": "1532 PSY101 7 8/3/2025 2:00 PM 3:30 PM 08F-21C GenEd",
+      "RowText": "1532 PSY101 7 3-Aug-25 2:00 PM 3:30 PM 08F-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 375.0704,
@@ -29130,12 +29130,12 @@
       "SL.": "1533",
       "Course": "PSY101",
       "Section": "8",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "08F-21C",
       "Dept.": "GenEd",
-      "RowText": "1533 PSY101 8 7/28/2025 11:00 AM 12:30 PM 08F-21C GenEd",
+      "RowText": "1533 PSY101 8 28-Jul-25 11:00 AM 12:30 PM 08F-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 386.4704,
@@ -29149,12 +29149,12 @@
       "SL.": "1534",
       "Course": "PSY101",
       "Section": "9",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "08F-21C",
       "Dept.": "GenEd",
-      "RowText": "1534 PSY101 9 7/28/2025 2:00 PM 3:30 PM 08F-21C GenEd",
+      "RowText": "1534 PSY101 9 28-Jul-25 2:00 PM 3:30 PM 08F-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 397.8704,
@@ -29168,12 +29168,12 @@
       "SL.": "1535",
       "Course": "PSY101",
       "Section": "10",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09D-18C",
       "Dept.": "GenEd",
-      "RowText": "1535 PSY101 10 7/28/2025 4:30 PM 6:00 PM 09D-18C GenEd",
+      "RowText": "1535 PSY101 10 28-Jul-25 4:30 PM 6:00 PM 09D-18C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 409.2904,
@@ -29187,12 +29187,12 @@
       "SL.": "1536",
       "Course": "PSY101",
       "Section": "11",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "09G-29C",
       "Dept.": "GenEd",
-      "RowText": "1536 PSY101 11 7/28/2025 8:30 AM 10:00 AM 09G-29C GenEd",
+      "RowText": "1536 PSY101 11 28-Jul-25 8:30 AM 10:00 AM 09G-29C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 420.6904,
@@ -29206,12 +29206,12 @@
       "SL.": "1537",
       "Course": "PSY101",
       "Section": "12",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "07D-21C",
       "Dept.": "GenEd",
-      "RowText": "1537 PSY101 12 7/29/2025 8:30 AM 10:00 AM 07D-21C GenEd",
+      "RowText": "1537 PSY101 12 29-Jul-25 8:30 AM 10:00 AM 07D-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 432.0904,
@@ -29225,12 +29225,12 @@
       "SL.": "1538",
       "Course": "PSY101",
       "Section": "13",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "08H-22C",
       "Dept.": "GenEd",
-      "RowText": "1538 PSY101 13 7/31/2025 11:00 AM 12:30 PM 08H-22C GenEd",
+      "RowText": "1538 PSY101 13 31-Jul-25 11:00 AM 12:30 PM 08H-22C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 443.4904,
@@ -29244,12 +29244,12 @@
       "SL.": "1539",
       "Course": "PSY101",
       "Section": "14",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "08H-22C",
       "Dept.": "GenEd",
-      "RowText": "1539 PSY101 14 7/31/2025 2:00 PM 3:30 PM 08H-22C GenEd",
+      "RowText": "1539 PSY101 14 31-Jul-25 2:00 PM 3:30 PM 08H-22C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 454.8904,
@@ -29263,12 +29263,12 @@
       "SL.": "1540",
       "Course": "PSY101",
       "Section": "15",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "09E-23C",
       "Dept.": "GenEd",
-      "RowText": "1540 PSY101 15 7/31/2025 8:30 AM 10:00 AM 09E-23C GenEd",
+      "RowText": "1540 PSY101 15 31-Jul-25 8:30 AM 10:00 AM 09E-23C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 466.2904,
@@ -29282,12 +29282,12 @@
       "SL.": "1541",
       "Course": "PSY101",
       "Section": "16",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09E-23C",
       "Dept.": "GenEd",
-      "RowText": "1541 PSY101 16 7/30/2025 11:00 AM 12:30 PM 09E-23C GenEd",
+      "RowText": "1541 PSY101 16 30-Jul-25 11:00 AM 12:30 PM 09E-23C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 477.6904,
@@ -29301,12 +29301,12 @@
       "SL.": "1542",
       "Course": "PSY101",
       "Section": "17",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "07B-18C",
       "Dept.": "GenEd",
-      "RowText": "1542 PSY101 17 7/31/2025 2:00 PM 4:00 PM 07B-18C GenEd",
+      "RowText": "1542 PSY101 17 31-Jul-25 2:00 PM 3:30 PM 07B-18C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 489.0904,
@@ -29320,12 +29320,12 @@
       "SL.": "1543",
       "Course": "PSY101",
       "Section": "18",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "07B-18C",
       "Dept.": "GenEd",
-      "RowText": "1543 PSY101 18 8/3/2025 11:00 AM 12:30 PM 07B-18C GenEd",
+      "RowText": "1543 PSY101 18 3-Aug-25 11:00 AM 12:30 PM 07B-18C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 500.4904,
@@ -29339,12 +29339,12 @@
       "SL.": "1544",
       "Course": "PSY101",
       "Section": "19",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08F-21C",
       "Dept.": "GenEd",
-      "RowText": "1544 PSY101 19 7/30/2025 4:30 PM 6:00 PM 08F-21C GenEd",
+      "RowText": "1544 PSY101 19 30-Jul-25 4:30 PM 6:00 PM 08F-21C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 511.8904,
@@ -29358,12 +29358,12 @@
       "SL.": "1545",
       "Course": "PSY101",
       "Section": "20",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "09E-23C",
       "Dept.": "GenEd",
-      "RowText": "1545 PSY101 20 8/3/2025 2:00 PM 3:30 PM 09E-23C GenEd",
+      "RowText": "1545 PSY101 20 3-Aug-25 2:00 PM 3:30 PM 09E-23C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 523.2904,
@@ -29371,18 +29371,18 @@
         "y1": 532.5304
       },
       "Page Number": 27,
-      "Line Number": 23
+      "Line Number": 42
     },
     {
       "SL.": "1546",
       "Course": "PSY102",
       "Section": "1",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "09E-23C",
       "Dept.": "GenEd",
-      "RowText": "1546 PSY102 1 7/30/2025 2:00 PM 3:30 PM 09E-23C GenEd",
+      "RowText": "1546 PSY102 1 30-Jul-25 2:00 PM 3:30 PM 09E-23C GenEd",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 534.6904,
@@ -29396,12 +29396,12 @@
       "SL.": "1547",
       "Course": "SOC101",
       "Section": "1",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08A-01C",
       "Dept.": "ESS",
-      "RowText": "1547 SOC101 1 7/29/2025 4:30 PM 6:00 PM 08A-01C ESS",
+      "RowText": "1547 SOC101 1 29-Jul-25 4:30 PM 6:00 PM 08A-01C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 546.0904,
@@ -29415,12 +29415,12 @@
       "SL.": "1548",
       "Course": "SOC101",
       "Section": "2",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08A-02C",
       "Dept.": "ESS",
-      "RowText": "1548 SOC101 2 7/29/2025 4:30 PM 6:00 PM 08A-02C ESS",
+      "RowText": "1548 SOC101 2 29-Jul-25 4:30 PM 6:00 PM 08A-02C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 557.4904,
@@ -29434,12 +29434,12 @@
       "SL.": "1549",
       "Course": "SOC101",
       "Section": "3",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08A-03C",
       "Dept.": "ESS",
-      "RowText": "1549 SOC101 3 7/29/2025 4:30 PM 6:00 PM 08A-03C ESS",
+      "RowText": "1549 SOC101 3 29-Jul-25 4:30 PM 6:00 PM 08A-03C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 568.8904,
@@ -29453,12 +29453,12 @@
       "SL.": "1550",
       "Course": "SOC101",
       "Section": "4",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08A-04C",
       "Dept.": "ESS",
-      "RowText": "1550 SOC101 4 7/29/2025 4:30 PM 6:00 PM 08A-04C ESS",
+      "RowText": "1550 SOC101 4 29-Jul-25 4:30 PM 6:00 PM 08A-04C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 580.3204000000001,
@@ -29472,12 +29472,12 @@
       "SL.": "1551",
       "Course": "SOC101",
       "Section": "5",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08A-05C",
       "Dept.": "ESS",
-      "RowText": "1551 SOC101 5 7/29/2025 4:30 PM 6:00 PM 08A-05C ESS",
+      "RowText": "1551 SOC101 5 29-Jul-25 4:30 PM 6:00 PM 08A-05C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 591.7204,
@@ -29491,12 +29491,12 @@
       "SL.": "1552",
       "Course": "SOC101",
       "Section": "6",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08A-06C",
       "Dept.": "ESS",
-      "RowText": "1552 SOC101 6 7/29/2025 4:30 PM 6:00 PM 08A-06C ESS",
+      "RowText": "1552 SOC101 6 29-Jul-25 4:30 PM 6:00 PM 08A-06C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 603.1204,
@@ -29510,12 +29510,12 @@
       "SL.": "1553",
       "Course": "SOC101",
       "Section": "7",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08B-07C",
       "Dept.": "ESS",
-      "RowText": "1553 SOC101 7 7/29/2025 4:30 PM 6:00 PM 08B-07C ESS",
+      "RowText": "1553 SOC101 7 29-Jul-25 4:30 PM 6:00 PM 08B-07C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 614.5204,
@@ -29529,12 +29529,12 @@
       "SL.": "1554",
       "Course": "SOC101",
       "Section": "8",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "08B-08C",
       "Dept.": "ESS",
-      "RowText": "1554 SOC101 8 7/29/2025 4:30 PM 6:00 PM 08B-08C ESS",
+      "RowText": "1554 SOC101 8 29-Jul-25 4:30 PM 6:00 PM 08B-08C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 625.9204,
@@ -29548,12 +29548,12 @@
       "SL.": "1555",
       "Course": "SOC101",
       "Section": "9",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09E-20T",
       "Dept.": "ESS",
-      "RowText": "1555 SOC101 9 7/29/2025 4:30 PM 6:00 PM 09E-20T ESS",
+      "RowText": "1555 SOC101 9 29-Jul-25 4:30 PM 6:00 PM 09E-20T ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 637.3204000000001,
@@ -29567,12 +29567,12 @@
       "SL.": "1556",
       "Course": "SOC101",
       "Section": "10",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09E-20T",
       "Dept.": "ESS",
-      "RowText": "1556 SOC101 10 7/29/2025 4:30 PM 6:00 PM 09E-20T ESS",
+      "RowText": "1556 SOC101 10 29-Jul-25 4:30 PM 6:00 PM 09E-20T ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 648.7204,
@@ -29586,12 +29586,12 @@
       "SL.": "1557",
       "Course": "SOC101",
       "Section": "11",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09E-20T",
       "Dept.": "ESS",
-      "RowText": "1557 SOC101 11 7/29/2025 4:30 PM 6:00 PM 09E-20T ESS",
+      "RowText": "1557 SOC101 11 29-Jul-25 4:30 PM 6:00 PM 09E-20T ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 660.1204,
@@ -29605,12 +29605,12 @@
       "SL.": "1558",
       "Course": "SOC101",
       "Section": "12",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09C-16T",
       "Dept.": "ESS",
-      "RowText": "1558 SOC101 12 7/29/2025 4:30 PM 6:00 PM 09C-16T ESS",
+      "RowText": "1558 SOC101 12 29-Jul-25 4:30 PM 6:00 PM 09C-16T ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 671.5204,
@@ -29624,12 +29624,12 @@
       "SL.": "1559",
       "Course": "SOC101",
       "Section": "13",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09C-16T",
       "Dept.": "ESS",
-      "RowText": "1559 SOC101 13 7/29/2025 4:30 PM 6:00 PM 09C-16T ESS",
+      "RowText": "1559 SOC101 13 29-Jul-25 4:30 PM 6:00 PM 09C-16T ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 682.9204,
@@ -29643,12 +29643,12 @@
       "SL.": "1560",
       "Course": "SOC101",
       "Section": "14",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09A-01C",
       "Dept.": "ESS",
-      "RowText": "1560 SOC101 14 7/29/2025 4:30 PM 6:00 PM 09A-01C ESS",
+      "RowText": "1560 SOC101 14 29-Jul-25 4:30 PM 6:00 PM 09A-01C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 694.3164,
@@ -29662,12 +29662,12 @@
       "SL.": "1561",
       "Course": "SOC101",
       "Section": "15-PHR",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "09A-02C",
       "Dept.": "ESS",
-      "RowText": "1561 SOC101 15-PHR 7/29/2025 4:30 PM 6:00 PM 09A-02C ESS",
+      "RowText": "1561 SOC101 15-PHR 29-Jul-25 4:30 PM 6:00 PM 09A-02C ESS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 705.7164,
@@ -29681,12 +29681,12 @@
       "SL.": "1562",
       "Course": "STA101",
       "Section": "1",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09A-01C",
       "Dept.": "MNS",
-      "RowText": "1562 STA101 1 8/2/2025 11:00 AM 12:30 PM 09A-01C MNS",
+      "RowText": "1562 STA101 1 2-Aug-25 11:00 AM 12:30 PM 09A-01C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 717.1164,
@@ -29700,12 +29700,12 @@
       "SL.": "1563",
       "Course": "STA101",
       "Section": "2",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09A-02C",
       "Dept.": "MNS",
-      "RowText": "1563 STA101 2 8/2/2025 11:00 AM 12:30 PM 09A-02C MNS",
+      "RowText": "1563 STA101 2 2-Aug-25 11:00 AM 12:30 PM 09A-02C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 67.22039999999993,
@@ -29719,12 +29719,12 @@
       "SL.": "1564",
       "Course": "STA101",
       "Section": "3",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09A-03C",
       "Dept.": "MNS",
-      "RowText": "1564 STA101 3 8/2/2025 11:00 AM 12:30 PM 09A-03C MNS",
+      "RowText": "1564 STA101 3 2-Aug-25 11:00 AM 12:30 PM 09A-03C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 78.6404,
@@ -29738,12 +29738,12 @@
       "SL.": "1565",
       "Course": "STA101",
       "Section": "4",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09A-04C",
       "Dept.": "MNS",
-      "RowText": "1565 STA101 4 8/2/2025 11:00 AM 12:30 PM 09A-04C MNS",
+      "RowText": "1565 STA101 4 2-Aug-25 11:00 AM 12:30 PM 09A-04C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 90.04039999999998,
@@ -29757,12 +29757,12 @@
       "SL.": "1566",
       "Course": "STA101",
       "Section": "5",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09A-05C",
       "Dept.": "MNS",
-      "RowText": "1566 STA101 5 8/2/2025 11:00 AM 12:30 PM 09A-05C MNS",
+      "RowText": "1566 STA101 5 2-Aug-25 11:00 AM 12:30 PM 09A-05C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 101.44039999999995,
@@ -29776,12 +29776,12 @@
       "SL.": "1567",
       "Course": "STA101",
       "Section": "6",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09A-06C",
       "Dept.": "MNS",
-      "RowText": "1567 STA101 6 8/2/2025 11:00 AM 12:30 PM 09A-06C MNS",
+      "RowText": "1567 STA101 6 2-Aug-25 11:00 AM 12:30 PM 09A-06C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 112.84039999999993,
@@ -29795,12 +29795,12 @@
       "SL.": "1568",
       "Course": "STA101",
       "Section": "7",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09A-07C",
       "Dept.": "MNS",
-      "RowText": "1568 STA101 7 8/2/2025 11:00 AM 12:30 PM 09A-07C MNS",
+      "RowText": "1568 STA101 7 2-Aug-25 11:00 AM 12:30 PM 09A-07C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 124.24039999999991,
@@ -29814,12 +29814,12 @@
       "SL.": "1569",
       "Course": "STA101",
       "Section": "8",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09B-12C",
       "Dept.": "MNS",
-      "RowText": "1569 STA101 8 8/2/2025 11:00 AM 12:30 PM 09B-12C MNS",
+      "RowText": "1569 STA101 8 2-Aug-25 11:00 AM 12:30 PM 09B-12C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 135.6404,
@@ -29827,18 +29827,18 @@
         "y1": 144.8804
       },
       "Page Number": 28,
-      "Line Number": 2
+      "Line Number": 7
     },
     {
       "SL.": "1570",
       "Course": "STA101",
       "Section": "9",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09D-17C",
       "Dept.": "MNS",
-      "RowText": "1570 STA101 9 8/2/2025 11:00 AM 12:30 PM 09D-17C MNS",
+      "RowText": "1570 STA101 9 2-Aug-25 11:00 AM 12:30 PM 09D-17C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 147.04039999999998,
@@ -29852,12 +29852,12 @@
       "SL.": "1571",
       "Course": "STA101",
       "Section": "10",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09D-18C",
       "Dept.": "MNS",
-      "RowText": "1571 STA101 10 8/2/2025 11:00 AM 12:30 PM 09D-18C MNS",
+      "RowText": "1571 STA101 10 2-Aug-25 11:00 AM 12:30 PM 09D-18C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 158.44039999999995,
@@ -29871,12 +29871,12 @@
       "SL.": "1572",
       "Course": "STA101",
       "Section": "11",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09H-32C",
       "Dept.": "MNS",
-      "RowText": "1572 STA101 11 8/2/2025 11:00 AM 12:30 PM 09H-32C MNS",
+      "RowText": "1572 STA101 11 2-Aug-25 11:00 AM 12:30 PM 09H-32C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 169.84039999999993,
@@ -29890,12 +29890,12 @@
       "SL.": "1573",
       "Course": "STA101",
       "Section": "12",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09H-33C",
       "Dept.": "MNS",
-      "RowText": "1573 STA101 12 8/2/2025 11:00 AM 12:30 PM 09H-33C MNS",
+      "RowText": "1573 STA101 12 2-Aug-25 11:00 AM 12:30 PM 09H-33C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 181.2403999999999,
@@ -29909,12 +29909,12 @@
       "SL.": "1574",
       "Course": "STA101",
       "Section": "13",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09H-34C",
       "Dept.": "MNS",
-      "RowText": "1574 STA101 13 8/2/2025 11:00 AM 12:30 PM 09H-34C MNS",
+      "RowText": "1574 STA101 13 2-Aug-25 11:00 AM 12:30 PM 09H-34C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 192.6404,
@@ -29928,12 +29928,12 @@
       "SL.": "1575",
       "Course": "STA101",
       "Section": "14",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09H-35C",
       "Dept.": "MNS",
-      "RowText": "1575 STA101 14 8/2/2025 11:00 AM 12:30 PM 09H-35C MNS",
+      "RowText": "1575 STA101 14 2-Aug-25 11:00 AM 12:30 PM 09H-35C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 204.04039999999998,
@@ -29947,12 +29947,12 @@
       "SL.": "1576",
       "Course": "STA101",
       "Section": "15",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "09H-36C",
       "Dept.": "MNS",
-      "RowText": "1576 STA101 15 8/2/2025 11:00 AM 12:30 PM 09H-36C MNS",
+      "RowText": "1576 STA101 15 2-Aug-25 11:00 AM 12:30 PM 09H-36C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 215.44039999999995,
@@ -29966,12 +29966,12 @@
       "SL.": "1577",
       "Course": "STA201",
       "Section": "1",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1577 STA201 1 7/28/2025 8:30 AM 10:00 AM 12A-09C MNS",
+      "RowText": "1577 STA201 1 28-Jul-25 8:30 AM 10:00 AM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 226.84039999999993,
@@ -29985,12 +29985,12 @@
       "SL.": "1578",
       "Course": "STA201",
       "Section": "2",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1578 STA201 2 7/29/2025 8:30 AM 10:00 AM 12A-09C MNS",
+      "RowText": "1578 STA201 2 29-Jul-25 8:30 AM 10:00 AM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 238.2403999999999,
@@ -30004,12 +30004,12 @@
       "SL.": "1579",
       "Course": "STA201",
       "Section": "3",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "10F-30C",
       "Dept.": "MNS",
-      "RowText": "1579 STA201 3 7/29/2025 8:30 AM 10:00 AM 10F-30C MNS",
+      "RowText": "1579 STA201 3 29-Jul-25 8:30 AM 10:00 AM 10F-30C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 249.67039999999997,
@@ -30023,12 +30023,12 @@
       "SL.": "1580",
       "Course": "STA201",
       "Section": "4",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1580 STA201 4 7/28/2025 11:00 AM 12:30 PM 12A-09C MNS",
+      "RowText": "1580 STA201 4 28-Jul-25 11:00 AM 12:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 261.07039999999995,
@@ -30042,12 +30042,12 @@
       "SL.": "1581",
       "Course": "STA201",
       "Section": "5",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "10F-31C",
       "Dept.": "MNS",
-      "RowText": "1581 STA201 5 7/28/2025 11:00 AM 12:30 PM 10F-31C MNS",
+      "RowText": "1581 STA201 5 28-Jul-25 11:00 AM 12:30 PM 10F-31C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 272.4703999999999,
@@ -30061,12 +30061,12 @@
       "SL.": "1582",
       "Course": "STA201",
       "Section": "6",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1582 STA201 6 7/29/2025 11:00 AM 12:30 PM 12A-09C MNS",
+      "RowText": "1582 STA201 6 29-Jul-25 11:00 AM 12:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 283.8704,
@@ -30080,12 +30080,12 @@
       "SL.": "1583",
       "Course": "STA201",
       "Section": "7",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "10F-31C",
       "Dept.": "MNS",
-      "RowText": "1583 STA201 7 7/29/2025 11:00 AM 12:30 PM 10F-31C MNS",
+      "RowText": "1583 STA201 7 29-Jul-25 11:00 AM 12:30 PM 10F-31C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 295.2704,
@@ -30099,12 +30099,12 @@
       "SL.": "1584",
       "Course": "STA201",
       "Section": "8",
-      "Final Date": "7/28/2025",
+      "Final Date": "2025-07-28",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1584 STA201 8 7/28/2025 2:00 PM 3:30 PM 12A-09C MNS",
+      "RowText": "1584 STA201 8 28-Jul-25 2:00 PM 3:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 306.67040000000003,
@@ -30118,12 +30118,12 @@
       "SL.": "1585",
       "Course": "STA201",
       "Section": "9",
-      "Final Date": "7/29/2025",
+      "Final Date": "2025-07-29",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1585 STA201 9 7/29/2025 2:00 PM 3:30 PM 12A-09C MNS",
+      "RowText": "1585 STA201 9 29-Jul-25 2:00 PM 3:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 318.0704,
@@ -30137,12 +30137,12 @@
       "SL.": "1586",
       "Course": "STA201",
       "Section": "10",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "10F-30C",
       "Dept.": "MNS",
-      "RowText": "1586 STA201 10 7/30/2025 2:00 PM 3:30 PM 10F-30C MNS",
+      "RowText": "1586 STA201 10 30-Jul-25 2:00 PM 3:30 PM 10F-30C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 329.4704,
@@ -30156,12 +30156,12 @@
       "SL.": "1587",
       "Course": "STA201",
       "Section": "11",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1587 STA201 11 7/30/2025 8:30 AM 10:00 AM 12A-09C MNS",
+      "RowText": "1587 STA201 11 30-Jul-25 8:30 AM 10:00 AM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 340.8704,
@@ -30175,12 +30175,12 @@
       "SL.": "1588",
       "Course": "STA201",
       "Section": "12",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1588 STA201 12 7/31/2025 8:30 AM 10:00 AM 12A-09C MNS",
+      "RowText": "1588 STA201 12 31-Jul-25 8:30 AM 10:00 AM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 352.2704,
@@ -30194,12 +30194,12 @@
       "SL.": "1589",
       "Course": "STA201",
       "Section": "13",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1589 STA201 13 7/30/2025 11:00 AM 12:30 PM 12A-09C MNS",
+      "RowText": "1589 STA201 13 30-Jul-25 11:00 AM 12:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 363.67040000000003,
@@ -30213,12 +30213,12 @@
       "SL.": "1590",
       "Course": "STA201",
       "Section": "14",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-10C",
       "Dept.": "MNS",
-      "RowText": "1590 STA201 14 7/30/2025 11:00 AM 12:30 PM 12A-10C MNS",
+      "RowText": "1590 STA201 14 30-Jul-25 11:00 AM 12:30 PM 12A-10C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 375.0704,
@@ -30232,12 +30232,12 @@
       "SL.": "1591",
       "Course": "STA201",
       "Section": "15",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1591 STA201 15 7/31/2025 11:00 AM 12:30 PM 12A-09C MNS",
+      "RowText": "1591 STA201 15 31-Jul-25 11:00 AM 12:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 386.4704,
@@ -30251,12 +30251,12 @@
       "SL.": "1592",
       "Course": "STA201",
       "Section": "16",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "10F-30C",
       "Dept.": "MNS",
-      "RowText": "1592 STA201 16 7/31/2025 11:00 AM 12:30 PM 10F-30C MNS",
+      "RowText": "1592 STA201 16 31-Jul-25 11:00 AM 12:30 PM 10F-30C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 397.8704,
@@ -30270,12 +30270,12 @@
       "SL.": "1593",
       "Course": "STA201",
       "Section": "17",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1593 STA201 17 7/30/2025 2:00 PM 3:30 PM 12A-09C MNS",
+      "RowText": "1593 STA201 17 30-Jul-25 2:00 PM 3:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 409.2904,
@@ -30289,12 +30289,12 @@
       "SL.": "1594",
       "Course": "STA201",
       "Section": "18",
-      "Final Date": "7/30/2025",
+      "Final Date": "2025-07-30",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "10F-31C",
       "Dept.": "MNS",
-      "RowText": "1594 STA201 18 7/30/2025 2:00 PM 3:30 PM 10F-31C MNS",
+      "RowText": "1594 STA201 18 30-Jul-25 2:00 PM 3:30 PM 10F-31C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 420.6904,
@@ -30308,12 +30308,12 @@
       "SL.": "1595",
       "Course": "STA201",
       "Section": "19",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1595 STA201 19 7/31/2025 2:00 PM 4:00 PM 12A-09C MNS",
+      "RowText": "1595 STA201 19 31-Jul-25 2:00 PM 3:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 432.0904,
@@ -30327,12 +30327,12 @@
       "SL.": "1596",
       "Course": "STA201",
       "Section": "20",
-      "Final Date": "7/31/2025",
+      "Final Date": "2025-07-31",
       "Start Time": "14:00",
-      "End Time": "16:00",
+      "End Time": "15:30",
       "Room.": "10F-31C",
       "Dept.": "MNS",
-      "RowText": "1596 STA201 20 7/31/2025 2:00 PM 4:00 PM 10F-31C MNS",
+      "RowText": "1596 STA201 20 31-Jul-25 2:00 PM 3:30 PM 10F-31C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 443.4904,
@@ -30346,12 +30346,12 @@
       "SL.": "1597",
       "Course": "STA201",
       "Section": "21",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1597 STA201 21 8/2/2025 2:00 PM 3:30 PM 12A-09C MNS",
+      "RowText": "1597 STA201 21 2-Aug-25 2:00 PM 3:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 454.8904,
@@ -30365,12 +30365,12 @@
       "SL.": "1598",
       "Course": "STA201",
       "Section": "22",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1598 STA201 22 8/3/2025 8:30 AM 10:00 AM 12A-09C MNS",
+      "RowText": "1598 STA201 22 3-Aug-25 8:30 AM 10:00 AM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 466.2904,
@@ -30384,12 +30384,12 @@
       "SL.": "1599",
       "Course": "STA201",
       "Section": "23",
-      "Final Date": "8/2/2025",
+      "Final Date": "2025-08-02",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1599 STA201 23 8/2/2025 11:00 AM 12:30 PM 12A-09C MNS",
+      "RowText": "1599 STA201 23 2-Aug-25 11:00 AM 12:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 477.6904,
@@ -30403,12 +30403,12 @@
       "SL.": "1600",
       "Course": "STA201",
       "Section": "24",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "11:00",
       "End Time": "12:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1600 STA201 24 8/3/2025 11:00 AM 12:30 PM 12A-09C MNS",
+      "RowText": "1600 STA201 24 3-Aug-25 11:00 AM 12:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 489.0904,
@@ -30422,12 +30422,12 @@
       "SL.": "1601",
       "Course": "STA201",
       "Section": "25",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "12A-10C",
       "Dept.": "MNS",
-      "RowText": "1601 STA201 25 8/3/2025 8:30 AM 10:00 AM 12A-10C MNS",
+      "RowText": "1601 STA201 25 3-Aug-25 8:30 AM 10:00 AM 12A-10C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 500.4904,
@@ -30441,12 +30441,12 @@
       "SL.": "1602",
       "Course": "STA201",
       "Section": "26",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "08:30",
       "End Time": "10:00",
       "Room.": "10F-31C",
       "Dept.": "MNS",
-      "RowText": "1602 STA201 26 8/3/2025 8:30 AM 10:00 AM 10F-31C MNS",
+      "RowText": "1602 STA201 26 3-Aug-25 8:30 AM 10:00 AM 10F-31C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 511.8904,
@@ -30460,12 +30460,12 @@
       "SL.": "1603",
       "Course": "STA301",
       "Section": "1",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "14:00",
       "End Time": "15:30",
       "Room.": "12A-09C",
       "Dept.": "MNS",
-      "RowText": "1603 STA301 1 8/3/2025 2:00 PM 3:30 PM 12A-09C MNS",
+      "RowText": "1603 STA301 1 3-Aug-25 2:00 PM 3:30 PM 12A-09C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 523.2904,
@@ -30479,12 +30479,12 @@
       "SL.": "1604",
       "Course": "FIN433",
       "Section": "2",
-      "Final Date": "8/3/2025",
+      "Final Date": "2025-08-03",
       "Start Time": "16:30",
       "End Time": "18:00",
       "Room.": "07A-02C",
       "Dept.": "MNS",
-      "RowText": "1604 FIN433 2 8/3/2025 4:30 PM 6:00 PM 07A-02C MNS",
+      "RowText": "1604 FIN433 2 3-Aug-25 4:30 PM 6:00 PM 07A-02C MNS",
       "BoundingBox": {
         "x0": 89.664,
         "y0": 534.6904,
@@ -30501,7 +30501,16 @@
       "Room.": "07A-01C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "1 1000054016 01 26-Jul-25 11:00AM-12:30AM 07A-01C",
+      "Page Number": 29,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 69.2217599999999,
+        "x1": 506.663,
+        "y1": 78.58175999999992
+      }
     },
     {
       "Course": "ENG091",
@@ -30510,7 +30519,16 @@
       "Room.": "07A-01C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "30 1000054282 02-PHR 26-Jul-25 11:00AM-12:30AM 07A-01C",
+      "Page Number": 29,
+      "Line Number": 33,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 573.89176,
+        "x1": 506.663,
+        "y1": 583.25176
+      }
     },
     {
       "Course": "ENG091",
@@ -30519,7 +30537,16 @@
       "Room.": "07A-02C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "51 1000056693 02-PHR 26-Jul-25 11:00AM-12:30AM 07A-02C",
+      "Page Number": 30,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG091",
@@ -30528,7 +30555,16 @@
       "Room.": "07A-02C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "60 24204217 03 26-Jul-25 11:00AM-12:30AM 07A-02C",
+      "Page Number": 30,
+      "Line Number": 20,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 347.19176,
+        "x1": 506.663,
+        "y1": 356.55175999999994
+      }
     },
     {
       "Course": "ENG091",
@@ -30537,7 +30573,16 @@
       "Room.": "07A-02C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "91 24204201 04 26-Jul-25 11:00AM-12:30AM 07A-02C",
+      "Page Number": 31,
+      "Line Number": 8,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 138.36176,
+        "x1": 506.663,
+        "y1": 147.72176000000002
+      }
     },
     {
       "Course": "ENG091",
@@ -30546,7 +30591,16 @@
       "Room.": "07A-03C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "101 1000055711 04 26-Jul-25 11:00AM-12:30AM 07A-03C",
+      "Page Number": 31,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 138.36176,
+        "x1": 506.663,
+        "y1": 147.72176000000002
+      }
     },
     {
       "Course": "ENG091",
@@ -30555,7 +30609,16 @@
       "Room.": "07A-03C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "121 24321224 05 26-Jul-25 11:00AM-12:30AM 07A-03C",
+      "Page Number": 31,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 660.4417599999999,
+        "x1": 506.663,
+        "y1": 669.8017600000001
+      }
     },
     {
       "Course": "ENG091",
@@ -30564,7 +30627,16 @@
       "Room.": "07A-04C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "151 1000057214 05 26-Jul-25 11:00AM-12:30AM 07A-04C",
+      "Page Number": 32,
+      "Line Number": 25,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG091",
@@ -30573,7 +30645,16 @@
       "Room.": "07A-04C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "152 1000054421 06 26-Jul-25 11:00AM-12:30AM 07A-04C",
+      "Page Number": 32,
+      "Line Number": 26,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 451.61176,
+        "x1": 506.663,
+        "y1": 460.97175999999996
+      }
     },
     {
       "Course": "ENG091",
@@ -30582,7 +30663,16 @@
       "Room.": "07A-04C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "183 1000054552 07 26-Jul-25 11:00AM-12:30AM 07A-04C",
+      "Page Number": 33,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 242.79175999999995,
+        "x1": 506.663,
+        "y1": 252.15175999999997
+      }
     },
     {
       "Course": "ENG091",
@@ -30591,7 +30681,16 @@
       "Room.": "07A-05C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "201 1000056961 07 26-Jul-25 11:00AM-12:30AM 07A-05C",
+      "Page Number": 33,
+      "Line Number": 32,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 242.79175999999995,
+        "x1": 506.663,
+        "y1": 252.15175999999997
+      }
     },
     {
       "Course": "ENG091",
@@ -30600,7 +30699,16 @@
       "Room.": "07A-05C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "212 1000054251 08 26-Jul-25 11:00AM-12:30AM 07A-05C",
+      "Page Number": 33,
+      "Line Number": 39,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 747.46176,
+        "x1": 506.663,
+        "y1": 756.82176
+      }
     },
     {
       "Course": "ENG091",
@@ -30609,7 +30717,16 @@
       "Room.": "07A-05C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "242 24303055 09 26-Jul-25 11:00AM-12:30AM 07A-05C",
+      "Page Number": 34,
+      "Line Number": 29,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 521.21176,
+        "x1": 506.663,
+        "y1": 530.57176
+      }
     },
     {
       "Course": "ENG091",
@@ -30618,7 +30735,16 @@
       "Room.": "07A-06C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "251 1000056897 09 26-Jul-25 11:00AM-12:30AM 07A-06C",
+      "Page Number": 34,
+      "Line Number": 39,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 521.21176,
+        "x1": 506.663,
+        "y1": 530.57176
+      }
     },
     {
       "Course": "ENG091",
@@ -30627,7 +30753,16 @@
       "Room.": "07A-06C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "271 1000056111 10 26-Jul-25 11:00AM-12:30AM 07A-06C",
+      "Page Number": 35,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 277.59176,
+        "x1": 506.663,
+        "y1": 286.95176
+      }
     },
     {
       "Course": "ENG091",
@@ -30636,7 +30771,16 @@
       "Room.": "07A-06C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "300 1000055266 11 26-Jul-25 11:00AM-12:30AM 07A-06C",
+      "Page Number": 36,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 33.94175999999993,
+        "x1": 506.663,
+        "y1": 43.301759999999945
+      }
     },
     {
       "Course": "ENG091",
@@ -30645,7 +30789,16 @@
       "Room.": "07A-07C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "301 1000056050 11 26-Jul-25 11:00AM-12:30AM 07A-07C",
+      "Page Number": 36,
+      "Line Number": 3,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 33.94175999999993,
+        "x1": 506.663,
+        "y1": 43.301759999999945
+      }
     },
     {
       "Course": "ENG091",
@@ -30654,7 +30807,16 @@
       "Room.": "07A-07C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "329 1000055064 12 26-Jul-25 11:00AM-12:30AM 07A-07C",
+      "Page Number": 36,
+      "Line Number": 3,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 538.61176,
+        "x1": 506.663,
+        "y1": 547.97176
+      }
     },
     {
       "Course": "ENG091",
@@ -30663,7 +30825,16 @@
       "Room.": "07A-08C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "351 1000057057 12 26-Jul-25 11:00AM-12:30AM 07A-08C",
+      "Page Number": 37,
+      "Line Number": 10,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG091",
@@ -30672,7 +30843,16 @@
       "Room.": "07A-08C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "357 24136069 13 26-Jul-25 11:00AM-12:30AM 07A-08C",
+      "Page Number": 37,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 277.59176,
+        "x1": 506.663,
+        "y1": 286.95176
+      }
     },
     {
       "Course": "ENG091",
@@ -30681,7 +30861,16 @@
       "Room.": "07A-08C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "386 1000054618 14-PHR 26-Jul-25 11:00AM-12:30AM 07A-08C",
+      "Page Number": 38,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 33.94175999999993,
+        "x1": 506.663,
+        "y1": 43.301759999999945
+      }
     },
     {
       "Course": "ENG091",
@@ -30690,7 +30879,16 @@
       "Room.": "07A-09C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "401 23301002 15 26-Jul-25 11:00AM-12:30AM 07A-09C",
+      "Page Number": 38,
+      "Line Number": 17,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 294.99176,
+        "x1": 506.663,
+        "y1": 304.35175999999996
+      }
     },
     {
       "Course": "ENG091",
@@ -30699,7 +30897,16 @@
       "Room.": "07A-09C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "432 1000054752 16 26-Jul-25 11:00AM-12:30AM 07A-09C",
+      "Page Number": 39,
+      "Line Number": 5,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.16175999999996,
+        "x1": 506.663,
+        "y1": 95.52175999999997
+      }
     },
     {
       "Course": "ENG091",
@@ -30708,7 +30915,16 @@
       "Room.": "07A-10C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "451 1000056858 16 26-Jul-25 11:00AM-12:30AM 07A-10C",
+      "Page Number": 39,
+      "Line Number": 24,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.16175999999996,
+        "x1": 506.663,
+        "y1": 95.52175999999997
+      }
     },
     {
       "Course": "ENG091",
@@ -30717,7 +30933,16 @@
       "Room.": "07A-10C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "460 24204073 17 26-Jul-25 11:00AM-12:30AM 07A-10C",
+      "Page Number": 39,
+      "Line Number": 33,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 573.41176,
+        "x1": 506.663,
+        "y1": 582.77176
+      }
     },
     {
       "Course": "ENG091",
@@ -30726,7 +30951,16 @@
       "Room.": "07A-10C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "490 24104221 18 26-Jul-25 11:00AM-12:30AM 07A-10C",
+      "Page Number": 40,
+      "Line Number": 16,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 347.19176,
+        "x1": 506.663,
+        "y1": 356.55175999999994
+      }
     },
     {
       "Course": "ENG091",
@@ -30735,7 +30969,16 @@
       "Room.": "07B-11C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "501 1000056808 18 26-Jul-25 11:00AM-12:30AM 07B-11C",
+      "Page Number": 40,
+      "Line Number": 31,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 347.19176,
+        "x1": 506.663,
+        "y1": 356.55175999999994
+      }
     },
     {
       "Course": "ENG091",
@@ -30744,7 +30987,16 @@
       "Room.": "07B-11C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "520 1000055889 19 26-Jul-25 11:00AM-12:30AM 07B-11C",
+      "Page Number": 41,
+      "Line Number": 6,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 120.96175999999991,
+        "x1": 506.663,
+        "y1": 130.32175999999993
+      }
     },
     {
       "Course": "ENG091",
@@ -30753,7 +31005,16 @@
       "Room.": "07B-11C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "549 1000054359 20 26-Jul-25 11:00AM-12:30AM 07B-11C",
+      "Page Number": 41,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 625.64176,
+        "x1": 506.663,
+        "y1": 635.00176
+      }
     },
     {
       "Course": "ENG091",
@@ -30762,7 +31023,16 @@
       "Room.": "07B-13C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "551 1000056261 20 26-Jul-25 11:00AM-12:30AM 07B-13C",
+      "Page Number": 41,
+      "Line Number": 38,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 625.64176,
+        "x1": 506.663,
+        "y1": 635.00176
+      }
     },
     {
       "Course": "ENG091",
@@ -30771,7 +31041,16 @@
       "Room.": "07B-13C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "578 24221181 21 26-Jul-25 11:00AM-12:30AM 07B-13C",
+      "Page Number": 42,
+      "Line Number": 22,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 381.99176,
+        "x1": 506.663,
+        "y1": 391.35175999999996
+      }
     },
     {
       "Course": "ENG091",
@@ -30780,7 +31059,16 @@
       "Room.": "07B-15C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "601 1000057002 21 26-Jul-25 11:00AM-12:30AM 07B-15C",
+      "Page Number": 43,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG091",
@@ -30789,7 +31077,16 @@
       "Room.": "07B-15C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "607 1000055177 22 26-Jul-25 11:00AM-12:30AM 07B-15C",
+      "Page Number": 43,
+      "Line Number": 8,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 138.36176,
+        "x1": 506.663,
+        "y1": 147.72176000000002
+      }
     },
     {
       "Course": "ENG091",
@@ -30798,7 +31095,16 @@
       "Room.": "07B-15C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "635 25103004 23 26-Jul-25 11:00AM-12:30AM 07B-15C",
+      "Page Number": 43,
+      "Line Number": 24,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 625.64176,
+        "x1": 506.663,
+        "y1": 635.00176
+      }
     },
     {
       "Course": "ENG091",
@@ -30807,7 +31113,16 @@
       "Room.": "07B-16C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "651 1000056768 23 26-Jul-25 11:00AM-12:30AM 07B-16C",
+      "Page Number": 44,
+      "Line Number": 9,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG091",
@@ -30816,7 +31131,16 @@
       "Room.": "07B-16C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "663 1000056078 24 26-Jul-25 11:00AM-12:30AM 07B-16C",
+      "Page Number": 44,
+      "Line Number": 21,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 364.59176,
+        "x1": 506.663,
+        "y1": 373.95176
+      }
     },
     {
       "Course": "ENG091",
@@ -30825,7 +31149,16 @@
       "Room.": "07B-16C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "691 1000054301 25 26-Jul-25 11:00AM-12:30AM 07B-16C",
+      "Page Number": 45,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 103.56175999999994,
+        "x1": 506.663,
+        "y1": 112.92175999999995
+      }
     },
     {
       "Course": "ENG091",
@@ -30834,7 +31167,16 @@
       "Room.": "07B-17C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "701 1000056593 25 26-Jul-25 11:00AM-12:30AM 07B-17C",
+      "Page Number": 45,
+      "Line Number": 16,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 103.56175999999994,
+        "x1": 506.663,
+        "y1": 112.92175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -30843,7 +31185,16 @@
       "Room.": "07A-01C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1 24321292 01 26-Jul-25 08:30AM-10:00AM 07A-01C",
+      "Page Number": 46,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 69.2217599999999,
+        "x1": 506.663,
+        "y1": 78.58175999999992
+      }
     },
     {
       "Course": "ENG101",
@@ -30852,7 +31203,16 @@
       "Room.": "07A-01C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "28 24101196 02 26-Jul-25 08:30AM-10:00AM 07A-01C",
+      "Page Number": 46,
+      "Line Number": 31,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 539.09176,
+        "x1": 506.663,
+        "y1": 548.45176
+      }
     },
     {
       "Course": "ENG101",
@@ -30861,7 +31221,16 @@
       "Room.": "07A-02C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "51 1000056348 02 26-Jul-25 08:30AM-10:00AM 07A-02C",
+      "Page Number": 47,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -30870,7 +31239,16 @@
       "Room.": "07A-02C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "55 24126135 03 26-Jul-25 08:30AM-10:00AM 07A-02C",
+      "Page Number": 47,
+      "Line Number": 15,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 260.19175999999993,
+        "x1": 506.663,
+        "y1": 269.55175999999994
+      }
     },
     {
       "Course": "ENG101",
@@ -30879,7 +31257,16 @@
       "Room.": "07A-02C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "83 24121119 04 26-Jul-25 08:30AM-10:00AM 07A-02C",
+      "Page Number": 47,
+      "Line Number": 43,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 747.46176,
+        "x1": 506.663,
+        "y1": 756.82176
+      }
     },
     {
       "Course": "ENG101",
@@ -30888,7 +31275,16 @@
       "Room.": "07A-03C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "101 1000055804 04 26-Jul-25 08:30AM-10:00AM 07A-03C",
+      "Page Number": 48,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -30897,7 +31293,16 @@
       "Room.": "07A-03C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "112 24304495 05 26-Jul-25 08:30AM-10:00AM 07A-03C",
+      "Page Number": 48,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 503.81176,
+        "x1": 506.663,
+        "y1": 513.17176
+      }
     },
     {
       "Course": "ENG101",
@@ -30906,7 +31311,16 @@
       "Room.": "07A-03C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "140 22104005 06 26-Jul-25 08:30AM-10:00AM 07A-03C",
+      "Page Number": 49,
+      "Line Number": 14,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 242.79175999999995,
+        "x1": 506.663,
+        "y1": 252.15175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -30915,7 +31329,16 @@
       "Room.": "07A-04C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "151 25110001 06 26-Jul-25 08:30AM-10:00AM 07A-04C",
+      "Page Number": 49,
+      "Line Number": 25,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 242.79175999999995,
+        "x1": 506.663,
+        "y1": 252.15175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -30924,7 +31347,16 @@
       "Room.": "07A-04C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "168 24308036 07 26-Jul-25 08:30AM-10:00AM 07A-04C",
+      "Page Number": 49,
+      "Line Number": 25,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 730.03776,
+        "x1": 506.663,
+        "y1": 739.39776
+      }
     },
     {
       "Course": "ENG101",
@@ -30933,7 +31365,16 @@
       "Room.": "07A-04C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "195 1000054025 08 26-Jul-25 08:30AM-10:00AM 07A-04C",
+      "Page Number": 50,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 451.61176,
+        "x1": 506.663,
+        "y1": 460.97175999999996
+      }
     },
     {
       "Course": "ENG101",
@@ -30942,7 +31383,16 @@
       "Room.": "07A-05C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "201 1000054229 08 26-Jul-25 08:30AM-10:00AM 07A-05C",
+      "Page Number": 50,
+      "Line Number": 32,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 451.61176,
+        "x1": 506.663,
+        "y1": 460.97175999999996
+      }
     },
     {
       "Course": "ENG101",
@@ -30951,7 +31401,16 @@
       "Room.": "07A-05C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "222 24104268 09 26-Jul-25 08:30AM-10:00AM 07A-05C",
+      "Page Number": 51,
+      "Line Number": 10,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 173.16175999999996,
+        "x1": 506.663,
+        "y1": 182.52175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -30960,7 +31419,16 @@
       "Room.": "07A-05C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "249 24241023 10 26-Jul-25 08:30AM-10:00AM 07A-05C",
+      "Page Number": 51,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 643.0417600000001,
+        "x1": 506.663,
+        "y1": 652.40176
+      }
     },
     {
       "Course": "ENG101",
@@ -30969,7 +31437,16 @@
       "Room.": "07A-06C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "251 1000054053 10 26-Jul-25 08:30AM-10:00AM 07A-06C",
+      "Page Number": 51,
+      "Line Number": 39,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 643.0417600000001,
+        "x1": 506.663,
+        "y1": 652.40176
+      }
     },
     {
       "Course": "ENG101",
@@ -30978,7 +31455,16 @@
       "Room.": "07A-06C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "277 24236083 11 26-Jul-25 08:30AM-10:00AM 07A-06C",
+      "Page Number": 52,
+      "Line Number": 19,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 381.99176,
+        "x1": 506.663,
+        "y1": 391.35175999999996
+      }
     },
     {
       "Course": "ENG101",
@@ -30987,7 +31473,16 @@
       "Room.": "07A-07C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "301 1000056650 11 26-Jul-25 08:30AM-10:00AM 07A-07C",
+      "Page Number": 53,
+      "Line Number": 3,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -30996,7 +31491,16 @@
       "Room.": "07A-07C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "305 24321308 12 26-Jul-25 08:30AM-10:00AM 07A-07C",
+      "Page Number": 53,
+      "Line Number": 7,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 120.96175999999991,
+        "x1": 506.663,
+        "y1": 130.32175999999993
+      }
     },
     {
       "Course": "ENG101",
@@ -31005,7 +31509,16 @@
       "Room.": "07A-07C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "332 24104032 13 26-Jul-25 08:30AM-10:00AM 07A-07C",
+      "Page Number": 53,
+      "Line Number": 5,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 590.84176,
+        "x1": 506.663,
+        "y1": 600.20176
+      }
     },
     {
       "Course": "ENG101",
@@ -31014,7 +31527,16 @@
       "Room.": "07A-08C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "351 1000056084 13 26-Jul-25 08:30AM-10:00AM 07A-08C",
+      "Page Number": 54,
+      "Line Number": 10,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31023,7 +31545,16 @@
       "Room.": "07A-08C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "359 23301469 14 26-Jul-25 08:30AM-10:00AM 07A-08C",
+      "Page Number": 54,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 312.39176000000003,
+        "x1": 506.663,
+        "y1": 321.75176
+      }
     },
     {
       "Course": "ENG101",
@@ -31032,7 +31563,16 @@
       "Room.": "07A-08C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "386 24146025 15 26-Jul-25 08:30AM-10:00AM 07A-08C",
+      "Page Number": 55,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 33.94175999999993,
+        "x1": 506.663,
+        "y1": 43.301759999999945
+      }
     },
     {
       "Course": "ENG101",
@@ -31041,7 +31581,16 @@
       "Room.": "07A-09C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "401 1000055341 15 26-Jul-25 08:30AM-10:00AM 07A-09C",
+      "Page Number": 55,
+      "Line Number": 17,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 33.94175999999993,
+        "x1": 506.663,
+        "y1": 43.301759999999945
+      }
     },
     {
       "Course": "ENG101",
@@ -31050,7 +31599,16 @@
       "Room.": "07A-09C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "414 23236114 16 26-Jul-25 08:30AM-10:00AM 07A-09C",
+      "Page Number": 55,
+      "Line Number": 26,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 521.21176,
+        "x1": 506.663,
+        "y1": 530.57176
+      }
     },
     {
       "Course": "ENG101",
@@ -31059,7 +31617,16 @@
       "Room.": "07A-09C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "442 24201030 17 26-Jul-25 08:30AM-10:00AM 07A-09C",
+      "Page Number": 56,
+      "Line Number": 15,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 260.19175999999993,
+        "x1": 506.663,
+        "y1": 269.55175999999994
+      }
     },
     {
       "Course": "ENG101",
@@ -31068,7 +31635,16 @@
       "Room.": "07A-10C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "451 1000054396 17 26-Jul-25 08:30AM-10:00AM 07A-10C",
+      "Page Number": 56,
+      "Line Number": 24,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 260.19175999999993,
+        "x1": 506.663,
+        "y1": 269.55175999999994
+      }
     },
     {
       "Course": "ENG101",
@@ -31077,7 +31653,16 @@
       "Room.": "07A-10C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "470 1000054048 18 26-Jul-25 08:30AM-10:00AM 07A-10C",
+      "Page Number": 56,
+      "Line Number": 43,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 747.46176,
+        "x1": 506.663,
+        "y1": 756.82176
+      }
     },
     {
       "Course": "ENG101",
@@ -31086,7 +31671,16 @@
       "Room.": "07A-10C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "498 23121046 19 26-Jul-25 08:30AM-10:00AM 07A-10C",
+      "Page Number": 57,
+      "Line Number": 3,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 486.41176,
+        "x1": 506.663,
+        "y1": 495.77176
+      }
     },
     {
       "Course": "ENG101",
@@ -31095,7 +31689,16 @@
       "Room.": "07B-11C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "501 1000054329 19 26-Jul-25 08:30AM-10:00AM 07B-11C",
+      "Page Number": 57,
+      "Line Number": 31,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 486.41176,
+        "x1": 506.663,
+        "y1": 495.77176
+      }
     },
     {
       "Course": "ENG101",
@@ -31104,7 +31707,16 @@
       "Room.": "07B-11C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "524 24201066 20 26-Jul-25 08:30AM-10:00AM 07B-11C",
+      "Page Number": 58,
+      "Line Number": 7,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 190.56175999999994,
+        "x1": 506.663,
+        "y1": 199.92175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -31113,7 +31725,16 @@
       "Room.": "07B-13C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "551 1000057270 20 26-Jul-25 08:30AM-10:00AM 07B-13C",
+      "Page Number": 58,
+      "Line Number": 38,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 190.56175999999994,
+        "x1": 506.663,
+        "y1": 199.92175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -31122,7 +31743,16 @@
       "Room.": "07B-13C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "552 24101094 21 26-Jul-25 08:30AM-10:00AM 07B-13C",
+      "Page Number": 58,
+      "Line Number": 39,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 677.84176,
+        "x1": 506.663,
+        "y1": 687.20176
+      }
     },
     {
       "Course": "ENG101",
@@ -31131,7 +31761,16 @@
       "Room.": "07B-13C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "578 20301161 22 26-Jul-25 08:30AM-10:00AM 07B-13C",
+      "Page Number": 59,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 381.99176,
+        "x1": 506.663,
+        "y1": 391.35175999999996
+      }
     },
     {
       "Course": "ENG101",
@@ -31140,7 +31779,16 @@
       "Room.": "07B-15C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "601 1000055832 22 26-Jul-25 08:30AM-10:00AM 07B-15C",
+      "Page Number": 60,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31149,7 +31797,16 @@
       "Room.": "07B-15C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "604 24301351 23 26-Jul-25 08:30AM-10:00AM 07B-15C",
+      "Page Number": 60,
+      "Line Number": 5,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.16175999999996,
+        "x1": 506.663,
+        "y1": 95.52175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -31158,7 +31815,16 @@
       "Room.": "07B-15C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "633 23204122 24 26-Jul-25 08:30AM-10:00AM 07B-15C",
+      "Page Number": 60,
+      "Line Number": 5,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 590.84176,
+        "x1": 506.663,
+        "y1": 600.20176
+      }
     },
     {
       "Course": "ENG101",
@@ -31167,7 +31833,16 @@
       "Room.": "07B-16C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "651 1000055896 24 26-Jul-25 08:30AM-10:00AM 07B-16C",
+      "Page Number": 61,
+      "Line Number": 9,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31176,7 +31851,16 @@
       "Room.": "07B-16C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "662 1000054556 25-PHR 26-Jul-25 08:30AM-10:00AM 07B-16C",
+      "Page Number": 61,
+      "Line Number": 20,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 347.19176,
+        "x1": 506.663,
+        "y1": 356.55175999999994
+      }
     },
     {
       "Course": "ENG101",
@@ -31185,7 +31869,16 @@
       "Room.": "07B-16C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "694 24321145 26 26-Jul-25 08:30AM-10:00AM 07B-16C",
+      "Page Number": 62,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 155.76175999999998,
+        "x1": 506.663,
+        "y1": 165.12176
+      }
     },
     {
       "Course": "ENG101",
@@ -31194,7 +31887,16 @@
       "Room.": "07B-17C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "701 25126001 26 26-Jul-25 08:30AM-10:00AM 07B-17C",
+      "Page Number": 62,
+      "Line Number": 16,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 155.76175999999998,
+        "x1": 506.663,
+        "y1": 165.12176
+      }
     },
     {
       "Course": "ENG101",
@@ -31203,7 +31905,16 @@
       "Room.": "07B-17C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "721 23236120 27 26-Jul-25 08:30AM-10:00AM 07B-17C",
+      "Page Number": 62,
+      "Line Number": 34,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 625.64176,
+        "x1": 506.663,
+        "y1": 635.00176
+      }
     },
     {
       "Course": "ENG101",
@@ -31212,7 +31923,16 @@
       "Room.": "07B-17C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "748 24321285 28 26-Jul-25 08:30AM-10:00AM 07B-17C",
+      "Page Number": 63,
+      "Line Number": 20,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 347.19176,
+        "x1": 506.663,
+        "y1": 356.55175999999994
+      }
     },
     {
       "Course": "ENG101",
@@ -31221,7 +31941,16 @@
       "Room.": "07B-18C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "751 1000054265 28 26-Jul-25 08:30AM-10:00AM 07B-18C",
+      "Page Number": 63,
+      "Line Number": 23,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 347.19176,
+        "x1": 506.663,
+        "y1": 356.55175999999994
+      }
     },
     {
       "Course": "ENG101",
@@ -31230,7 +31959,16 @@
       "Room.": "07B-18C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "776 23326051 29 26-Jul-25 08:30AM-10:00AM 07B-18C",
+      "Page Number": 64,
+      "Line Number": 5,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.16175999999996,
+        "x1": 506.663,
+        "y1": 95.52175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -31239,7 +31977,16 @@
       "Room.": "07D-19C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "801 25121020 29 26-Jul-25 08:30AM-10:00AM 07D-19C",
+      "Page Number": 64,
+      "Line Number": 30,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.16175999999996,
+        "x1": 506.663,
+        "y1": 95.52175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -31248,7 +31995,16 @@
       "Room.": "07D-19C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "804 24304026 30 26-Jul-25 08:30AM-10:00AM 07D-19C",
+      "Page Number": 64,
+      "Line Number": 30,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 573.41176,
+        "x1": 506.663,
+        "y1": 582.77176
+      }
     },
     {
       "Course": "ENG101",
@@ -31257,7 +32013,16 @@
       "Room.": "07D-19C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "831 24204023 31 26-Jul-25 08:30AM-10:00AM 07D-19C",
+      "Page Number": 65,
+      "Line Number": 17,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 294.99176,
+        "x1": 506.663,
+        "y1": 304.35175999999996
+      }
     },
     {
       "Course": "ENG101",
@@ -31266,7 +32031,16 @@
       "Room.": "07D-20C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "851 1000055463 31 26-Jul-25 08:30AM-10:00AM 07D-20C",
+      "Page Number": 65,
+      "Line Number": 37,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 294.99176,
+        "x1": 506.663,
+        "y1": 304.35175999999996
+      }
     },
     {
       "Course": "ENG101",
@@ -31275,7 +32049,16 @@
       "Room.": "07D-20C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "859 24321098 32 26-Jul-25 08:30AM-10:00AM 07D-20C",
+      "Page Number": 66,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 33.94175999999993,
+        "x1": 506.663,
+        "y1": 43.301759999999945
+      }
     },
     {
       "Course": "ENG101",
@@ -31284,7 +32067,16 @@
       "Room.": "07D-20C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "887 24304161 33 26-Jul-25 08:30AM-10:00AM 07D-20C",
+      "Page Number": 66,
+      "Line Number": 30,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 521.21176,
+        "x1": 506.663,
+        "y1": 530.57176
+      }
     },
     {
       "Course": "ENG101",
@@ -31293,7 +32085,16 @@
       "Room.": "07D-21C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "901 1000055209 33 26-Jul-25 08:30AM-10:00AM 07D-21C",
+      "Page Number": 67,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31302,7 +32103,16 @@
       "Room.": "07D-21C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "915 24104015 34 26-Jul-25 08:30AM-10:00AM 07D-21C",
+      "Page Number": 67,
+      "Line Number": 15,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 260.19175999999993,
+        "x1": 506.663,
+        "y1": 269.55175999999994
+      }
     },
     {
       "Course": "ENG101",
@@ -31311,7 +32121,16 @@
       "Room.": "07D-21C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "941 1000054073 35 26-Jul-25 08:30AM-10:00AM 07D-21C",
+      "Page Number": 67,
+      "Line Number": 35,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 712.63776,
+        "x1": 506.663,
+        "y1": 721.99776
+      }
     },
     {
       "Course": "ENG101",
@@ -31320,7 +32139,16 @@
       "Room.": "07F-22C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "951 1000055949 35 26-Jul-25 08:30AM-10:00AM 07F-22C",
+      "Page Number": 68,
+      "Line Number": 8,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31329,7 +32157,16 @@
       "Room.": "07F-22C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "969 24236144 36 26-Jul-25 08:30AM-10:00AM 07F-22C",
+      "Page Number": 68,
+      "Line Number": 26,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 451.61176,
+        "x1": 506.663,
+        "y1": 460.97175999999996
+      }
     },
     {
       "Course": "ENG101",
@@ -31338,7 +32175,16 @@
       "Room.": "07F-22C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "997 1000054669 37-PHR 26-Jul-25 08:30AM-10:00AM 07F-22C",
+      "Page Number": 69,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 190.56175999999994,
+        "x1": 506.663,
+        "y1": 199.92175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -31347,7 +32193,16 @@
       "Room.": "07H-26C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1001 1000054850 37-PHR 26-Jul-25 08:30AM-10:00AM 07H-26C",
+      "Page Number": 69,
+      "Line Number": 15,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 190.56175999999994,
+        "x1": 506.663,
+        "y1": 199.92175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -31356,7 +32211,16 @@
       "Room.": "07H-26C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1028 1000055179 38 26-Jul-25 08:30AM-10:00AM 07H-26C",
+      "Page Number": 69,
+      "Line Number": 42,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 730.03776,
+        "x1": 506.663,
+        "y1": 739.39776
+      }
     },
     {
       "Course": "ENG101",
@@ -31365,7 +32229,16 @@
       "Room.": "07H-27C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1051 1000056552 38 26-Jul-25 08:30AM-10:00AM 07H-27C",
+      "Page Number": 70,
+      "Line Number": 22,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31374,7 +32247,16 @@
       "Room.": "07H-27C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1056 24201014 39 26-Jul-25 08:30AM-10:00AM 07H-27C",
+      "Page Number": 70,
+      "Line Number": 27,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 469.01176000000004,
+        "x1": 506.663,
+        "y1": 478.37176
+      }
     },
     {
       "Course": "ENG101",
@@ -31383,7 +32265,16 @@
       "Room.": "07H-27C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1077 24304104 40 26-Jul-25 08:30AM-10:00AM 07H-27C",
+      "Page Number": 71,
+      "Line Number": 5,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.16175999999996,
+        "x1": 506.663,
+        "y1": 95.52175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -31392,7 +32283,16 @@
       "Room.": "07H-28C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1102 1000056635 40 26-Jul-25 08:30AM-10:00AM 07H-28C",
+      "Page Number": 71,
+      "Line Number": 30,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.16175999999996,
+        "x1": 506.663,
+        "y1": 95.52175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -31401,7 +32301,16 @@
       "Room.": "07H-28C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1106 22299171 41 26-Jul-25 08:30AM-10:00AM 07H-28C",
+      "Page Number": 71,
+      "Line Number": 33,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 590.84176,
+        "x1": 506.663,
+        "y1": 600.20176
+      }
     },
     {
       "Course": "ENG101",
@@ -31410,7 +32319,16 @@
       "Room.": "07H-28C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1134 23304080 42 26-Jul-25 08:30AM-10:00AM 07H-28C",
+      "Page Number": 72,
+      "Line Number": 19,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 329.79176,
+        "x1": 506.663,
+        "y1": 339.15175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -31419,7 +32337,16 @@
       "Room.": "07H-29C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1153 1000055825 42 26-Jul-25 08:30AM-10:00AM 07H-29C",
+      "Page Number": 72,
+      "Line Number": 38,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 329.79176,
+        "x1": 506.663,
+        "y1": 339.15175999999997
+      }
     },
     {
       "Course": "ENG101",
@@ -31428,7 +32355,16 @@
       "Room.": "07H-29C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1160 24208029 43 26-Jul-25 08:30AM-10:00AM 07H-29C",
+      "Page Number": 73,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 33.94175999999993,
+        "x1": 506.663,
+        "y1": 43.301759999999945
+      }
     },
     {
       "Course": "ENG101",
@@ -31437,7 +32373,16 @@
       "Room.": "07H-29C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1183 24241011 44 26-Jul-25 08:30AM-10:00AM 07H-29C",
+      "Page Number": 73,
+      "Line Number": 25,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 434.21176,
+        "x1": 506.663,
+        "y1": 443.57176
+      }
     },
     {
       "Course": "ENG101",
@@ -31446,7 +32391,16 @@
       "Room.": "07H-30C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1204 1000055637 44 26-Jul-25 08:30AM-10:00AM 07H-30C",
+      "Page Number": 74,
+      "Line Number": 3,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31455,7 +32409,16 @@
       "Room.": "07H-30C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1210 24305021 45 26-Jul-25 08:30AM-10:00AM 07H-30C",
+      "Page Number": 74,
+      "Line Number": 9,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 155.76175999999998,
+        "x1": 506.663,
+        "y1": 165.12176
+      }
     },
     {
       "Course": "ENG101",
@@ -31464,7 +32427,16 @@
       "Room.": "07H-30C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1241 1000054091 46 26-Jul-25 08:30AM-10:00AM 07H-30C",
+      "Page Number": 74,
+      "Line Number": 40,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 695.23776,
+        "x1": 506.663,
+        "y1": 704.59776
+      }
     },
     {
       "Course": "ENG101",
@@ -31473,7 +32445,16 @@
       "Room.": "07H-31C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1255 1000056451 46 26-Jul-25 08:30AM-10:00AM 07H-31C",
+      "Page Number": 75,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG101",
@@ -31482,7 +32463,16 @@
       "Room.": "07H-31C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1268 24126064 47 26-Jul-25 08:30AM-10:00AM 07H-31C",
+      "Page Number": 75,
+      "Line Number": 13,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 416.81176,
+        "x1": 506.663,
+        "y1": 426.17175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -31491,7 +32481,16 @@
       "Room.": "07H-31C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1298 23205041 48 26-Jul-25 08:30AM-10:00AM 07H-31C",
+      "Page Number": 76,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 190.56175999999994,
+        "x1": 506.663,
+        "y1": 199.92175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -31500,7 +32499,16 @@
       "Room.": "08A-01C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1306 1000055640 48 26-Jul-25 08:30AM-10:00AM 08A-01C",
+      "Page Number": 76,
+      "Line Number": 19,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 190.56175999999994,
+        "x1": 506.663,
+        "y1": 199.92175999999995
+      }
     },
     {
       "Course": "ENG101",
@@ -31509,7 +32517,16 @@
       "Room.": "08A-01C",
       "Dept.": "BIL",
       "Start Time": "08:30",
-      "End Time": "10:00"
+      "End Time": "10:00",
+      "RowText": "1327 1000054212 49 26-Jul-25 08:30AM-10:00AM 08A-01C",
+      "Page Number": 76,
+      "Line Number": 24,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 695.23776,
+        "x1": 506.663,
+        "y1": 704.59776
+      }
     },
     {
       "Course": "ENG102",
@@ -31518,7 +32535,16 @@
       "Room.": "07B-18C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "1 23346006 01-PHR 26-Jul-25 11:00AM-12:30AM 07B-18C",
+      "Page Number": 78,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 69.2217599999999,
+        "x1": 506.663,
+        "y1": 78.58175999999992
+      }
     },
     {
       "Course": "ENG102",
@@ -31527,7 +32553,16 @@
       "Room.": "07B-18C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "35 23126016 02 26-Jul-25 11:00AM-12:30AM 07B-18C",
+      "Page Number": 78,
+      "Line Number": 12,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 660.92176,
+        "x1": 506.663,
+        "y1": 670.28176
+      }
     },
     {
       "Course": "ENG102",
@@ -31536,7 +32571,16 @@
       "Room.": "07D-19C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "51 1000055180 02 26-Jul-25 11:00AM-12:30AM 07D-19C",
+      "Page Number": 79,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
     },
     {
       "Course": "ENG102",
@@ -31545,7 +32589,16 @@
       "Room.": "07D-19C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "58 20101234 03 26-Jul-25 11:00AM-12:30AM 07D-19C",
+      "Page Number": 79,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 312.39176000000003,
+        "x1": 506.663,
+        "y1": 321.75176
+      }
     },
     {
       "Course": "ENG102",
@@ -31554,7 +32607,16 @@
       "Room.": "07D-19C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "89 24101407 04 26-Jul-25 11:00AM-12:30AM 07D-19C",
+      "Page Number": 80,
+      "Line Number": 6,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 103.56175999999994,
+        "x1": 506.663,
+        "y1": 112.92175999999995
+      }
     },
     {
       "Course": "ENG102",
@@ -31563,7 +32625,16 @@
       "Room.": "07D-20C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "101 24201350 04 26-Jul-25 11:00AM-12:30AM 07D-20C",
+      "Page Number": 80,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 103.56175999999994,
+        "x1": 506.663,
+        "y1": 112.92175999999995
+      }
     },
     {
       "Course": "ENG102",
@@ -31572,7 +32643,16 @@
       "Room.": "07D-20C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "109 22299191 05 26-Jul-25 11:00AM-12:30AM 07D-20C",
+      "Page Number": 80,
+      "Line Number": 19,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 451.61176,
+        "x1": 506.663,
+        "y1": 460.97175999999996
+      }
     },
     {
       "Course": "ENG102",
@@ -31581,7 +32661,16 @@
       "Room.": "07D-20C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "140 24146081 06 26-Jul-25 11:00AM-12:30AM 07D-20C",
+      "Page Number": 81,
+      "Line Number": 14,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 242.79175999999995,
+        "x1": 506.663,
+        "y1": 252.15175999999997
+      }
     },
     {
       "Course": "ENG102",
@@ -31590,7 +32679,16 @@
       "Room.": "07D-21C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "151 24146075 06 26-Jul-25 11:00AM-12:30AM 07D-21C",
+      "Page Number": 81,
+      "Line Number": 25,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 242.79175999999995,
+        "x1": 506.663,
+        "y1": 252.15175999999997
+      }
     },
     {
       "Course": "ENG102",
@@ -31599,7 +32697,16 @@
       "Room.": "07D-21C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "173 23201621 07 26-Jul-25 11:00AM-12:30AM 07D-21C",
+      "Page Number": 82,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 68.74176,
+        "x1": 506.663,
+        "y1": 78.10176000000001
+      }
     },
     {
       "Course": "ENG102",
@@ -31608,7 +32715,16 @@
       "Room.": "07D-21C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "197 23101024 08 26-Jul-25 11:00AM-12:30AM 07D-21C",
+      "Page Number": 82,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 486.41176,
+        "x1": 506.663,
+        "y1": 495.77176
+      }
     },
     {
       "Course": "ENG102",
@@ -31617,7 +32733,16 @@
       "Room.": "07F-22C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "201 24146073 08 26-Jul-25 11:00AM-12:30AM 07F-22C",
+      "Page Number": 82,
+      "Line Number": 32,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 486.41176,
+        "x1": 506.663,
+        "y1": 495.77176
+      }
     },
     {
       "Course": "ENG102",
@@ -31626,7 +32751,16 @@
       "Room.": "07F-22C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "228 23346051 09-PHR 26-Jul-25 11:00AM-12:30AM 07F-22C",
+      "Page Number": 83,
+      "Line Number": 16,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 277.59176,
+        "x1": 506.663,
+        "y1": 286.95176
+      }
     },
     {
       "Course": "ENG102",
@@ -31635,7 +32769,484 @@
       "Room.": "07B-17C",
       "Dept.": "BIL",
       "Start Time": "11:00",
-      "End Time": "00:30"
+      "End Time": "00:30",
+      "RowText": "251 24203021 09-PHR 26-Jul-25 11:00AM-12:30AM 07B-17C",
+      "Page Number": 83,
+      "Line Number": 39,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 277.59176,
+        "x1": 506.663,
+        "y1": 286.95176
+      }
+    },
+    {
+      "Course": "ENG103",
+      "Section": "01",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-26C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "1 23304048 01 26-Jul-25 11:00AM-12:30AM 07H-26C",
+      "Page Number": 85,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 67.90175999999997,
+        "x1": 506.663,
+        "y1": 77.26175999999998
+      }
+    },
+    {
+      "Course": "ENG103",
+      "Section": "02",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-26C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "21 22203103 02 26-Jul-25 11:00AM-12:30AM 07H-26C",
+      "Page Number": 85,
+      "Line Number": 7,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 411.17176,
+        "x1": 506.663,
+        "y1": 420.53175999999996
+      }
+    },
+    {
+      "Course": "ENG103",
+      "Section": "03",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-26C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "42 23341104 03 26-Jul-25 11:00AM-12:30AM 07H-26C",
+      "Page Number": 86,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.42175999999995,
+        "x1": 506.663,
+        "y1": 25.781759999999963
+      }
+    },
+    {
+      "Course": "ENG103",
+      "Section": "03",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-27C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "51 24301132 03 26-Jul-25 11:00AM-12:30AM 07H-27C",
+      "Page Number": 86,
+      "Line Number": 10,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.42175999999995,
+        "x1": 506.663,
+        "y1": 25.781759999999963
+      }
+    },
+    {
+      "Course": "ENG103",
+      "Section": "04",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-27C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "58 22203055 04 26-Jul-25 11:00AM-12:30AM 07H-27C",
+      "Page Number": 86,
+      "Line Number": 14,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 291.03176,
+        "x1": 506.663,
+        "y1": 300.39176
+      }
+    },
+    {
+      "Course": "ENG103",
+      "Section": "05",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-27C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "81 22111005 05 26-Jul-25 11:00AM-12:30AM 07H-27C",
+      "Page Number": 86,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 685.75776,
+        "x1": 506.663,
+        "y1": 695.11776
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "01",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-28C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "1 20303053 01 26-Jul-25 11:00AM-12:30AM 07H-28C",
+      "Page Number": 88,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 69.2217599999999,
+        "x1": 506.663,
+        "y1": 78.58175999999992
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "02",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-28C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "24 24141158 02 26-Jul-25 11:00AM-12:30AM 07H-28C",
+      "Page Number": 88,
+      "Line Number": 10,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 469.49176,
+        "x1": 506.663,
+        "y1": 478.85175999999996
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "03",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-28C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "47 21301002 03 26-Jul-25 11:00AM-12:30AM 07H-28C",
+      "Page Number": 89,
+      "Line Number": 2,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 120.96175999999991,
+        "x1": 506.663,
+        "y1": 130.32175999999993
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "03",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-29C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "51 22203022 03 26-Jul-25 11:00AM-12:30AM 07H-29C",
+      "Page Number": 89,
+      "Line Number": 11,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 120.96175999999991,
+        "x1": 506.663,
+        "y1": 130.32175999999993
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "04",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-29C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "71 24341238 04 26-Jul-25 11:00AM-12:30AM 07H-29C",
+      "Page Number": 89,
+      "Line Number": 31,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 538.61176,
+        "x1": 506.663,
+        "y1": 547.97176
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "05",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-29C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "95 21301040 05 26-Jul-25 11:00AM-12:30AM 07H-29C",
+      "Page Number": 90,
+      "Line Number": 12,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 207.9617599999999,
+        "x1": 506.663,
+        "y1": 217.32175999999993
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "05",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-30C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "101 22301595 05 26-Jul-25 11:00AM-12:30AM 07H-30C",
+      "Page Number": 90,
+      "Line Number": 18,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 207.9617599999999,
+        "x1": 506.663,
+        "y1": 217.32175999999993
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "06",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-30C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "118 16201074 06 26-Jul-25 11:00AM-12:30AM 07H-30C",
+      "Page Number": 90,
+      "Line Number": 23,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 608.24176,
+        "x1": 506.663,
+        "y1": 617.60176
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "07",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-30C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "141 21301685 07 26-Jul-25 11:00AM-12:30AM 07H-30C",
+      "Page Number": 91,
+      "Line Number": 1,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 260.19175999999993,
+        "x1": 506.663,
+        "y1": 269.55175999999994
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "07",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-31C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "151 24141187 07 26-Jul-25 11:00AM-12:30AM 07H-31C",
+      "Page Number": 91,
+      "Line Number": 25,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 260.19175999999993,
+        "x1": 506.663,
+        "y1": 269.55175999999994
+      }
+    },
+    {
+      "Course": "CHN101",
+      "Section": "08",
+      "Mid Date": "2025-07-26",
+      "Room.": "07H-31C",
+      "Dept.": "BIL",
+      "Start Time": "11:00",
+      "End Time": "00:30",
+      "RowText": "165 21301201 08 26-Jul-25 11:00AM-12:30AM 07H-31C",
+      "Page Number": 91,
+      "Line Number": 39,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 677.84176,
+        "x1": 506.663,
+        "y1": 687.20176
+      }
+    },
+    {
+      "Course": "FRN101",
+      "Section": "01",
+      "Mid Date": "2025-07-26",
+      "Room.": "08A-02C",
+      "Dept.": "BIL",
+      "Start Time": "08:30",
+      "End Time": "10:00",
+      "RowText": "1 21103003 01 26-Jul-25 08:30AM-10:00AM 08A-02C",
+      "Page Number": 93,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 73.20175999999992,
+        "x1": 506.663,
+        "y1": 82.56175999999994
+      }
+    },
+    {
+      "Course": "FRN101",
+      "Section": "02",
+      "Mid Date": "2025-07-26",
+      "Room.": "08A-02C",
+      "Dept.": "BIL",
+      "Start Time": "08:30",
+      "End Time": "10:00",
+      "RowText": "17 21241080 02 26-Jul-25 08:30AM-10:00AM 08A-02C",
+      "Page Number": 93,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 351.63176000000004,
+        "x1": 506.663,
+        "y1": 360.99176
+      }
+    },
+    {
+      "Course": "FRN101",
+      "Section": "03",
+      "Mid Date": "2025-07-26",
+      "Room.": "08A-02C",
+      "Dept.": "BIL",
+      "Start Time": "08:30",
+      "End Time": "10:00",
+      "RowText": "37 24104273 03 26-Jul-25 08:30AM-10:00AM 08A-02C",
+      "Page Number": 93,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 699.67776,
+        "x1": 506.663,
+        "y1": 709.03776
+      }
+    },
+    {
+      "Course": "FRN101",
+      "Section": "03",
+      "Mid Date": "2025-07-26",
+      "Room.": "08A-03C",
+      "Dept.": "BIL",
+      "Start Time": "08:30",
+      "End Time": "10:00",
+      "RowText": "49 22203048 03 26-Jul-25 08:30AM-10:00AM 08A-03C",
+      "Page Number": 94,
+      "Line Number": 9,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 16.541759999999954,
+        "x1": 506.663,
+        "y1": 25.901759999999967
+      }
+    },
+    {
+      "Course": "FRN101",
+      "Section": "04",
+      "Mid Date": "2025-07-26",
+      "Room.": "08A-03C",
+      "Dept.": "BIL",
+      "Start Time": "08:30",
+      "End Time": "10:00",
+      "RowText": "56 21301573 04 26-Jul-25 08:30AM-10:00AM 08A-03C",
+      "Page Number": 94,
+      "Line Number": 9,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 277.59176,
+        "x1": 506.663,
+        "y1": 286.95176
+      }
+    },
+    {
+      "Course": "FRN101",
+      "Section": "05",
+      "Mid Date": "2025-07-26",
+      "Room.": "08A-03C",
+      "Dept.": "BIL",
+      "Start Time": "08:30",
+      "End Time": "10:00",
+      "RowText": "74 20301323 05 26-Jul-25 08:30AM-10:00AM 08A-03C",
+      "Page Number": 94,
+      "Line Number": 34,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 590.84176,
+        "x1": 506.663,
+        "y1": 600.20176
+      }
+    },
+    {
+      "Course": "SPN101",
+      "Section": "01",
+      "Mid Date": "2025-07-26",
+      "Room.": "07A-01C",
+      "Dept.": "BIL",
+      "Start Time": "14:00",
+      "End Time": "15:30",
+      "RowText": "1 19301220 01 26-Jul-25 02:00PM-03:30PM 07A-01C",
+      "Page Number": 96,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 73.20175999999992,
+        "x1": 506.663,
+        "y1": 82.56175999999994
+      }
+    },
+    {
+      "Course": "SPN101",
+      "Section": "02",
+      "Mid Date": "2025-07-26",
+      "Room.": "07A-01C",
+      "Dept.": "BIL",
+      "Start Time": "14:00",
+      "End Time": "15:30",
+      "RowText": "29 20303039 02 26-Jul-25 02:00PM-03:30PM 07A-01C",
+      "Page Number": 96,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 560.4517599999999,
+        "x1": 506.663,
+        "y1": 569.81176
+      }
+    },
+    {
+      "Course": "JPN101",
+      "Section": "01",
+      "Mid Date": "2025-07-26",
+      "Room.": "07B-16C",
+      "Dept.": "BIL",
+      "Start Time": "16:30",
+      "End Time": "18:00",
+      "RowText": "1 21303007 01 26-Jul-25 04:30PM-06:00PM 07B-16C",
+      "Page Number": 98,
+      "Line Number": 4,
+      "BoundingBox": {
+        "x0": 89.664,
+        "y0": 86.76175999999998,
+        "x1": 506.663,
+        "y1": 96.12176
+      }
     }
   ]
 }
